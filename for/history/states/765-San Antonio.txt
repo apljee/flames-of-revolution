@@ -1,0 +1,31 @@
+
+state={
+	id=765
+	name="STATE_765"
+	
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 9
+			air_base = 3
+			6785 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = MEX
+		victory_points = {
+			12782 1 
+		}
+
+	}
+	
+	
+	provinces={
+		1927 1998 2019 2042 4884 4955 5061 6785 6798 6987 8064 12369 12728 12782 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

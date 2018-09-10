@@ -1,0 +1,7 @@
+#reload countrycolors
+
+
+LOU = {
+	color = rgb { 110 67 193 }
+	color_ui = rgb { 84 48 155 }
+}
