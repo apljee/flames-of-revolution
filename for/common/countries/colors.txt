@@ -5,3 +5,7 @@ LOU = {
 	color = rgb { 110 67 193 }
 	color_ui = rgb { 84 48 155 }
 }
+COL = {
+	color = rgb { 83 162 222 }
+	color_ui = rgb { 52 125 181 }
+}
