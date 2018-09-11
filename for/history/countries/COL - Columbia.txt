@@ -62,7 +62,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 5
+set_convoys = 119
 
 create_country_leader = {
 	name = "Ellison D. Smith"
@@ -71,7 +71,6 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = conservative
 	traits = {
-		#
 	}
 }
 

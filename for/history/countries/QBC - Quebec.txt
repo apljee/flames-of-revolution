@@ -1,4 +1,4 @@
-﻿capital = 371
+capital = 466
 
 #OOB = "ALB_1936"
 
@@ -14,41 +14,41 @@ set_politics = {
 		natpop = { 
 			popularity = 0
 		}
-
+		
 		jacobin = {
-			popularity = 5
-		}
-		
-		revrep = {
-			popularity = 11
-		}
-		
-		demrep = { 
-			popularity = 25
-		}
-		
-		liberal = { 
-			popularity = 24
-		}
-
-		syncretic = {
-			popularity = 16
-		}
-		
-		conservative = {
-			popularity = 9
-		}
-		
-		autdem = { 
-			popularity = 5
-		}
-		
-		absolute = {
 			popularity = 0
 		}
 		
+		revrep = {
+			popularity = 0
+		}
+		
+		demrep = { 
+			popularity = 0
+		}
+		
+		liberal = { 
+			popularity = 0
+		}
+		
+		syncretic = {
+			popularity = 0
+		}
+		
+		conservative = {
+			popularity = 20
+		}
+		
+		autdem = { 
+			popularity = 10
+		}
+		
+		absolute = {
+			popularity = 60
+		}
+		
 		totalitarianism = { 
-			popularity = 5
+			popularity = 10
 		}
 		
 		reformationism = { 
@@ -56,22 +56,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = demrep
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 5
+set_convoys = 39
 
 create_country_leader = {
-	name = "John M. Parker"
+	name = "Maurice Duplessis"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_QBC_Maurice_Duplessis.dds"
 	expire = "1965.1.1"
-	ideology = democratic_republican
+	ideology = absolute
 	traits = {
-
 	}
 }
 

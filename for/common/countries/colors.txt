@@ -9,3 +9,6 @@ COL = {
 	color = rgb { 83 162 222 }
 	color_ui = rgb { 52 125 181 }
 }
+QBC = {
+	color = rgb { 52 90 153 }
+	color_ui = rgb { 40 74 130 }
