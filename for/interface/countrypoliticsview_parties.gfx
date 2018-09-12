@@ -1,0 +1,58 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ideology_natpop_group"
+		texturefile = "gfx/interface/ideologies/natpop_group.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_ideology_jacobin_group"
+		texturefile = "gfx/interface/ideologies/jacobin_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_revrep_group"
+		texturefile = "gfx/interface/ideologies/revrep_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_demrep_group"
+		texturefile = "gfx/interface/ideologies/demrep_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_liberal_group"
+		texturefile = "gfx/interface/ideologies/liberal_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_syncretic_group"
+		texturefile = "gfx/interface/ideologies/syncretic_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_conservative_group"
+		texturefile = "gfx/interface/ideologies/conservative_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_autdem_group"
+		texturefile = "gfx/interface/ideologies/autdem_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_absolute_group"
+		texturefile = "gfx/interface/ideologies/absolute_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_totalitarianism_group"
+		texturefile = "gfx/interface/ideologies/totalitarianism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_reformationism_group"
+		texturefile = "gfx/interface/ideologies/reformationism_group.dds"
+	}
+
+}
