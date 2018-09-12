@@ -1,0 +1,33 @@
+ideas = {
+	country = {
+		napoleon_vi = {
+			
+			
+			allowed = {
+				original_tag = "ITA"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = natpop
+					has_government = jacobin
+					has_government = revrep
+				}
+				NOT = {
+					any_other_country = {
+						original_tag = ITA
+						has_government = reformationism
+						has_government = totalitarianism
+					}
+				}
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.05
+				absolute_drift = 0.01
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+spriteTypes = {
+	
+	SpriteType = {
+		name = "GFX_idea_napoleon_vi"
+		texturefile = "gfx/interface/ideas/idea_napoleon_vi.dds"
+	}
+
+}
