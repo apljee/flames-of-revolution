@@ -19,11 +19,11 @@ set_politics = {
 			popularity = 0
 		}
 		
-		jacobinist = {
+		revpop = {
 			popularity = 0
 		}
 		
-		revpop = {
+		jacobinist = {
 			popularity = 0
 		}
 		
