@@ -11,31 +11,31 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		natpop = { 
+		godwinist = { 
 			popularity = 0
 		}
 
-		jacobin = {
+		jacobinist = {
 			popularity = 5
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 11
 		}
 		
-		demrep = { 
+		republicanism = { 
 			popularity = 25
 		}
 		
-		liberal = { 
+		liberalism = { 
 			popularity = 24
 		}
 
-		syncretic = {
+		parliamentarian = {
 			popularity = 16
 		}
 		
-		conservative = {
+		toryism = {
 			popularity = 9
 		}
 		
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		totalitarianism = { 
+		reactionism = { 
 			popularity = 5
 		}
 		
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = demrep
+	ruling_party = republicanism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_LOU_John_M_Parker.dds"
 	expire = "1965.1.1"
-	ideology = democratic_republican
+	ideology = republicanism
 	traits = {
 
 	}

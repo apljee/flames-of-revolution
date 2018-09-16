@@ -11,31 +11,31 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		natpop = { 
+		godwinist = { 
 			popularity = 18
 		}
 		
-		jacobin = {
+		jacobinist = {
 			popularity = 22
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 33
 		}
 		
-		demrep = { 
+		republicanism = { 
 			popularity = 10
 		}
 		
-		liberal = { 
+		liberalism = { 
 			popularity = 10
 		}
 		
-		syncretic = {
+		parliamentarian = {
 			popularity = 0
 		}
 		
-		conservative = {
+		toryism = {
 			popularity = 0
 		}
 		
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		totalitarianism = { 
+		reactionism = { 
 			popularity = 7
 		}
 		
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = revrep
+	ruling_party = revpop
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_SIC_Giacomo_Matteotti.dds"
 	expire = "1965.1.1"
-	ideology = revolutionary_republican
+	ideology = revpop
 }
 
 create_field_marshal = {

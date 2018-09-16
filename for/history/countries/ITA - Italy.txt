@@ -15,31 +15,31 @@ add_ideas = {
 set_politics = {
 
 	parties = {
-		natpop = { 
+		godwinist = { 
 			popularity = 0
 		}
 		
-		jacobin = {
+		jacobinist = {
 			popularity = 0
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 0
 		}
 		
-		demrep = { 
+		republicanism = { 
 			popularity = 0
 		}
 		
-		liberal = { 
+		liberalism = { 
 			popularity = 15
 		}
 		
-		syncretic = {
+		parliamentarian = {
 			popularity = 15
 		}
 		
-		conservative = {
+		toryism = {
 			popularity = 24
 		}
 		
@@ -51,7 +51,7 @@ set_politics = {
 			popularity = 12
 		}
 		
-		totalitarianism = { 
+		reactionism = { 
 			popularity = 19
 		}
 		
@@ -60,7 +60,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = toryism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_ITA_Alcide_de_Gasperi.dds"
 	expire = "1965.1.1"
-	ideology = conservative
+	ideology = toryism
 }
 
 create_country_leader = {

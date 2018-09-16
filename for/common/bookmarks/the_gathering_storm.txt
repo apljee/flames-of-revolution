@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"FRA"={
 			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = absolute
 			ideas = {
 				FRA_victors_of_wwi
 				FRA_disjointed_government
@@ -21,9 +21,9 @@ bookmarks = {
 				FRA_revise_versailles
 			}
 		}
-		"USA"={
+		"LOU"={
 			history = "USA_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = republicanism
 			ideas = {
 				home_of_the_free
 				great_depression
@@ -35,9 +35,9 @@ bookmarks = {
 				USA_pearl_harbor_gambit
 			}
 		}
-		"ENG"={
+		"SIC"={
 			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = revpop
 			ideas = {
 				stiff_upper_lip
 				ENG_the_war_to_end_all_wars
@@ -49,9 +49,9 @@ bookmarks = {
 				ENG_war_with_italy
 			}
 		}
-		"GER"={
+		"COL"={
 			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = toryism
 			available = { has_dlc = "Waking the Tiger" }
 			ideas = {
 				sour_loser
@@ -64,9 +64,9 @@ bookmarks = {
 				GER_revive_the_kaiserreich
 			}
 		}
-		"GER"={
+		"COL"={
 			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = toryism
 			available = { NOT = { has_dlc = "Waking the Tiger" } }
 			ideas = {
 				sour_loser
@@ -81,7 +81,7 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_GATHERING_STORM_DESC"
-			ideology = conservative
+			ideology = toryism
 			ideas = {
 				napoleon_vi
 			}	
@@ -91,9 +91,9 @@ bookmarks = {
 				ITA_italy_first
 			}		
 		}
-		"JAP"={
+		"PAP"={
 			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = absolute
 			ideas = {
 				state_shintoism
 				JAP_zaibatsus
@@ -105,9 +105,9 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}			
 		}
-		"SOV"={
+		"QBC"={
 			history = "SOV_GATHERING_STORM_DESC"
-			ideology = communism
+			ideology = absolute
 			ideas = {
 				trotskyite_plot
 				home_of_revolution
@@ -125,7 +125,7 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		"POL"={
+		"NET"={
 			minor = yes
 			history = "POL_GATHERING_STORM_DESC"
 			ideology = neutrality
@@ -138,7 +138,7 @@ bookmarks = {
 				POL_seek_accommodation_with_germany
 			}
 		}
-		"CAN"={
+		"SAR"={
 			minor = yes
 			history = "CAN_GATHERING_STORM_DESC"
 			ideology = democratic

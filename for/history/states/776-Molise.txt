@@ -1,0 +1,25 @@
+state={
+	id=776
+	name="STATE_776"
+
+	history={
+		owner = SIC
+		add_core_of = SIC
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+
+		}
+
+	}
+
+	provinces={
+		963 3923 3966 6831 6939 6980 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=city
+}

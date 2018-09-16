@@ -11,31 +11,31 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		natpop = { 
+		godwinist = { 
 			popularity = 0
 		}
 
-		jacobin = {
+		jacobinist = {
 			popularity = 13
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 4
 		}
 		
-		demrep = { 
+		parliamentarian = { 
 			popularity = 12
 		}
 		
-		liberal = { 
+		liberal ism= { 
 			popularity = 18
 		}
 
-		syncretic = {
+		parliamentarian = {
 			popularity = 11
 		}
 		
-		conservative = {
+		toryism = {
 			popularity = 21
 		}
 		
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		totalitarianism = { 
+		reactionism = {
 			popularity = 15
 		}
 		
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = toryism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_COL_Ellison_D_Smith.dds"
 	expire = "1965.1.1"
-	ideology = conservative
+	ideology = toryism
 	traits = {
 	}
 }

@@ -1,0 +1,35 @@
+ideologies = {
+
+	absolute = {
+
+		types = {
+			absolute = {
+			}
+		}
+			
+	dynamic_faction_names = {
+		"FACTION_NAME_ABSAUT_1"
+	}
+
+	color = { 81 81 81 }
+
+		rules = {
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		modifiers = {
+			generate_wargoal_tension = 1.0
+			join_faction_tension = 0.5
+		}
+	
+		can_be_boosted = no
+		can_collaborate = yes
+	
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0
+		}
+		ai_neutral = yes
+	}
+}	

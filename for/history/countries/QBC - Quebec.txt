@@ -11,31 +11,31 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		natpop = { 
+		godwinist = { 
 			popularity = 0
 		}
 		
-		jacobin = {
+		jacobinist = {
 			popularity = 0
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 0
 		}
 		
-		demrep = { 
+		republicanism = { 
 			popularity = 0
 		}
 		
-		liberal = { 
+		liberalism = { 
 			popularity = 0
 		}
 		
-		syncretic = {
+		parliamentarian = {
 			popularity = 0
 		}
 		
-		conservative = {
+		toryism = {
 			popularity = 20
 		}
 		
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 60
 		}
 		
-		totalitarianism = { 
+		reactionism = { 
 			popularity = 10
 		}
 		

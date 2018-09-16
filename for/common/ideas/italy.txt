@@ -9,15 +9,13 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = natpop
-					has_government = jacobin
-					has_government = revrep
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
 				}
 				NOT = {
 					any_other_country = {
-						original_tag = ITA
-						has_government = reformationism
-						has_government = totalitarianism
+						original_tag = SIC
 					}
 				}
 			}

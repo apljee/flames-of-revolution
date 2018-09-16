@@ -25,3 +25,15 @@ PAP = {
 	color = rgb { 224 223 195 }
 	color_ui = rgb { 196 195 166 }
 }
+FRA = {
+	color = rgb { 13 46 116 }
+	color_ui = rgb { 13 46 74 }
+}
+NET = {
+	color = rgb { 223 137 52 }
+	color_ui = rgb { 193 117 46 }
+}
+SAR = {
+	color = rgb { 95 141 139 }
+	color_ui = rgb { 88 130 127 }
+}
