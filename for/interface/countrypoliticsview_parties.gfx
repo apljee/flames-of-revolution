@@ -1,38 +1,38 @@
 spriteTypes = {
 	
 	spriteType = {
-		name = "GFX_ideology_natpop_group"
-		texturefile = "gfx/interface/ideologies/natpop_group.dds"
+		name = "GFX_ideology_godwinist_group"
+		texturefile = "gfx/interface/ideologies/godwinist_group.dds"
 	}	
 	
 	spriteType = {
-		name = "GFX_ideology_jacobin_group"
-		texturefile = "gfx/interface/ideologies/jacobin_group.dds"
+		name = "GFX_ideology_revpop_group"
+		texturefile = "gfx/interface/ideologies/revpop_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_revrep_group"
-		texturefile = "gfx/interface/ideologies/revrep_group.dds"
+		name = "GFX_ideology_jacobinist_group"
+		texturefile = "gfx/interface/ideologies/jacobinist_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_demrep_group"
-		texturefile = "gfx/interface/ideologies/demrep_group.dds"
+		name = "GFX_ideology_republicanism_group"
+		texturefile = "gfx/interface/ideologies/republicanism_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_liberal_group"
-		texturefile = "gfx/interface/ideologies/liberal_group.dds"
+		name = "GFX_ideology_liberalism_group"
+		texturefile = "gfx/interface/ideologies/liberalism_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_syncretic_group"
-		texturefile = "gfx/interface/ideologies/syncretic_group.dds"
+		name = "GFX_ideology_parliamentarian_group"
+		texturefile = "gfx/interface/ideologies/parliamentarian_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_conservative_group"
-		texturefile = "gfx/interface/ideologies/conservative_group.dds"
+		name = "GFX_ideology_toryism_group"
+		texturefile = "gfx/interface/ideologies/toryism_group.dds"
 	}
 	
 	spriteType = {
@@ -46,8 +46,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_totalitarianism_group"
-		texturefile = "gfx/interface/ideologies/totalitarianism_group.dds"
+		name = "GFX_ideology_reactionism_group"
+		texturefile = "gfx/interface/ideologies/reactionism_group.dds"
 	}
 	
 	spriteType = {

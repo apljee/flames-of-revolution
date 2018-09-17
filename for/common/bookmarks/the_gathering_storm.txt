@@ -25,7 +25,14 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_GATHERING_STORM_DESC"
-			ideology = toryism	
+			ideology = toryism
+			ideas = {
+				napoleon_vi
+			}
+		}
+		"PRU"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = autdem
 		}
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"

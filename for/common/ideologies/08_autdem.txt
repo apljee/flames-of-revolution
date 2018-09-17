@@ -43,6 +43,5 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0
 		}
-		ai_fascism = yes
 	}
 }

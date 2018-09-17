@@ -1,4 +1,4 @@
-﻿capital = 7
+﻿capital = 64
 
 #OOB = "ALB_1936"
 
@@ -12,19 +12,19 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 6
+			popularity = 0
 		}
 		
 		revpop = {
-			popularity = 14
+			popularity = 5
 		}
 		
 		jacobinist = {
-			popularity = 10
+			popularity = 5
 		}
 		
 		republicanism = { 
-			popularity = 0
+			popularity = 10
 		}
 		
 		liberalism = { 
@@ -32,54 +32,58 @@ set_politics = {
 		}
 		
 		parliamentarian = {
-			popularity = 0
+			popularity = 8
 		}
 		
 		toryism = {
-			popularity = 30
+			popularity = 12
 		}
 		
 		autdem = { 
-			popularity = 20
+			popularity = 30
 		}
 		
 		absolute = {
-			popularity = 10
+			popularity = 0
 		}
 		
 		reactionism = { 
-			popularity = 0
+			popularity = 13
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 7
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 47
+set_convoys = 78
 
 create_country_leader = {
-	name = "Wilhelmina Orange-Nassau"
+	name = "August von Mackensen"
 	desc = ""
-	picture = "Portrait_NET_Wilhelmina_Orange-Nassau.dds"
+	picture = "Portrait_PRU_August_von_Mackensen.dds"
 	expire = "1965.1.1"
-	ideology = absolute
+	ideology = autdem
 }
 
 create_field_marshal = {
-	name = "Xhemal Aranitasi"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	traits = { }
-	skill = 2
-	attack_skill = 1
+	name = "August von Mackensen"
+	portrait_path = "gfx/leaders/PRU/Portrait_PRU_August_von_Mackensen.dds"
+	traits = {
+		offensive_doctrine
+		defensive_doctrine
+		charismatic
+	}
+	skill = 4
+	attack_skill = 4
     defense_skill = 3
     planning_skill = 2
-    logistics_skill = 1
+    logistics_skill = 4
 }
 
