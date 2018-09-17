@@ -14,16 +14,16 @@ QBC = {
 	color_ui = rgb { 40 74 130 }
 }
 ITA = {
-	color = rgb { 94 163 101 }
-	color_ui = rgb { 75 137 81 }
+	color = rgb { 15 105 47 }
+	color_ui = rgb { 6 76 31 }
 }
 SIC = {
-	color = rgb { 99 55 55 }
-	color_ui = rgb { 79 43 43 }
+	color = rgb { 91 26 26 }
+	color_ui = rgb { 79 16 16 }
 }
 PAP = {
-	color = rgb { 224 223 195 }
-	color_ui = rgb { 196 195 166 }
+	color = rgb { 225 222 109 }
+	color_ui = rgb { 163 160 70 }
 }
 FRA = {
 	color = rgb { 13 46 116 }
@@ -35,5 +35,9 @@ NET = {
 }
 SAR = {
 	color = rgb { 95 141 139 }
-	color_ui = rgb { 88 130 127 }
+	color_ui = rgb { 66 107 105 }
+}
+HRE = {
+	color = rgb { 177 177 177 }
+	color_ui = rgb { 130 130 130 }
 }
