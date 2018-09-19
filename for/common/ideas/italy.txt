@@ -27,5 +27,65 @@ ideas = {
 				absolute_drift = 0.01
 			}
 		}
+		ITA_second_kingdom_drift = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				 has_government = absolute
+			}
+
+			removal_cost = -1
+
+			picture = generic_fascism_drift_bonus
+
+			modifier = {
+				absolute_drift = 0.05
+				absolute_acceptance = 85
+			}
+		}
+		ITA_united_absolute_focus = {
+		
+			allowed = {
+				always = no
+			}
+			
+			allowed_civil_war = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = prc_low_popular_support3
+			
+			modifier = {
+				stability_factor = 0.1
+				absolute_drift = 0.05
+			}
+		}
+		ITA_anti_anti_absolutist_focus = {
+		
+			allowed = {
+				always = no
+			}
+			
+			allowed_civil_war = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = generic_king_handled.png
+			
+			modifier = {
+				godwinist_drift = -0.05
+				revpop_drift = -0.05
+				jacobinist_drift = -0.05
+				reactionism_drift = -0.05
+				reformationist_drift = -0.05
+			}
+		}
 	}
 }

@@ -1,0 +1,205 @@
+focus_tree = {
+	id = FOR_ITA_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ITA
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 50 y = 1100 }
+
+	focus = {
+		id = ITA_avanti_italia
+		icon = GFX_ITA_focus_avanti_italia
+		x = 6
+		y = 0
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = 120
+		}
+	}
+	
+	focus = {
+		id = ITA_second_kingdom
+		icon = GFX_ITA_focus_second_kingdom
+		prerequisite = { focus = ITA_avanti_italia }
+		x = -3
+		y = 1
+		relative_position_id = ITA_avanti_italia
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_popularity = { ideology = absolute popularity = 0.05 }
+			add_timed_idea = { idea = ITA_second_kingdom_drift days = 365 }
+		}
+	}
+	
+	focus = {
+		id = ITA_the_peoples_king
+		icon = GFX_goal_generic_demand_territory
+		prerequisite = { focus = ITA_second_kingdom }
+		x = 0
+		y = 1
+		relative_position_id = ITA_second_kingdom
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_popularity = { ideology = absolute popularity = 0.05 }
+			add_stability = 0.05
+		}
+	}
+	
+	focus = {
+		id = ITA_the_return_of_napoleon_vi
+		icon = GFX_focus_rom_royal_dictatorship
+		prerequisite = { focus = ITA_the_peoples_king }
+
+		available = {
+			absolute > 0.5
+		}
+		
+		x = 0
+		y = 1
+		relative_position_id = ITA_the_peoples_king
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_popularity = { ideology = absolute popularity = 0.05 }
+			set_politics = { ruling_party = absolute elections_allowed = no }
+		}
+	}
+	
+	focus = {
+		id = ITA_reclaiming_rome
+		icon = GFX_ITA_focus_reclaiming_rome
+		prerequisite = { focus = ITA_the_return_of_napoleon_vi }
+		mutually_exclusive = { focus = ITA_protecting_catholicism }
+		bypass = {
+			2 = { is_owned_by = ITA }
+		}
+		x = -1
+		y = 1
+		relative_position_id = ITA_the_return_of_napoleon_vi
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = no
+		
+		completion_reward = {
+			add_state_claim = 2
+		}
+	}
+	
+	focus = {
+		id = ITA_protecting_catholicism
+		icon = GFX_goal_generic_defence
+		prerequisite = { focus = ITA_the_return_of_napoleon_vi }
+		mutually_exclusive = { focus = ITA_reclaiming_rome }
+		bypass = {
+			is_in_faction = yes
+		}
+		x = 1
+		y = 1
+		relative_position_id = ITA_the_return_of_napoleon_vi
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = no
+		
+		completion_reward = {
+			set_rule = { can_create_factions = yes }
+			if = {
+				limit = {
+					is_in_faction = no
+				}
+				create_faction = "Alleanza Cattolica Romana"
+				add_to_faction = PAP
+				give_guarantee = PAP
+			}
+		}
+	}
+	
+	focus = {
+		id = ITA_breaking_the_anti_absolutists
+		icon = GFX_focus_ger_bulwark_against_bolshevism
+		prerequisite = { focus = ITA_reclaiming_rome focus = ITA_protecting_catholicism }
+		bypass = {
+			115 = { is_owned_by = ITA }
+			116 = { is_owned_by = ITA }
+			117 = { is_owned_by = ITA }
+			156 = { is_owned_by = ITA }
+			776 = { is_owned_by = ITA }
+			777 = { is_owned_by = ITA }
+			778 = { is_owned_by = ITA }
+		}
+		x = 0
+		y = 2
+		relative_position_id = ITA_the_return_of_napoleon_vi
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = no
+		
+		completion_reward = {
+			add_ideas = ITA_anti_anti_absolutist_focus
+ 			create_wargoal = {
+ 				type = annex_everything
+ 				target = SIC
+ 			}
+			}
+	}
+	
+	focus = {
+		id = ITA_united_once_more
+		icon = GFX_goal_generic_national_unity
+		prerequisite = { focus = ITA_breaking_the_anti_absolutists }
+		x = 3
+		y = 6
+		relative_position_id = { ITA_breaking_the_anti_absolutists }
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = no
+		
+		completion_reward = {
+			add_ideas = ITA_united_absolute_focus
+			add_popularity = { ideology = absolute popularity = 0.1 }
+		}
+	}
+	
+	

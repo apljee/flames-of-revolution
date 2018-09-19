@@ -34,6 +34,10 @@ bookmarks = {
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = autdem
 		}
+		"BRI"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = reformationist
+		}
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
@@ -43,29 +47,12 @@ bookmarks = {
 		"NET"={
 			minor = yes
 			history = "POL_GATHERING_STORM_DESC"
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-				POL_the_baltic_alliance
-				POL_draw_closer_to_britain
-				POL_seek_accommodation_with_germany
-			}
+			ideology = absolute
 		}
 		"SAR"={
 			minor = yes
 			history = "CAN_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-				CAN_great_depression_1
-				CAN_conscription_crisis
-			}
-			focuses = {
-				CAN_skewer_the_eagle
-				CAN_north_american_alliance
-				CAN_join_comintern
-			}
+			ideology = absolute
 		}
 		"AST"={
 			minor = yes
