@@ -65,6 +65,7 @@ set_politics = {
 create_faction = "L'Alliance Royale"
 add_to_faction = FRA
 add_to_faction = SAR
+add_to_faction = SPR
 
 set_convoys = 168
 
