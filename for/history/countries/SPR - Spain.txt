@@ -1,4 +1,4 @@
-﻿capital = 115
+﻿capital = 41
 
 #OOB = "ALB_1936"
 
@@ -12,43 +12,43 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 18
+			popularity = 5
 		}
 		
 		revpop = {
-			popularity = 22
+			popularity = 14
 		}
 		
 		jacobinist = {
-			popularity = 33
+			popularity = 6
 		}
 		
 		republicanism = { 
-			popularity = 10
+			popularity = 5
 		}
 		
 		liberalism = { 
-			popularity = 10
+			popularity = 5
 		}
 		
 		parliamentarian = {
-			popularity = 0
+			popularity = 5
 		}
 		
 		toryism = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 10
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 29
 		}
 		
 		reactionism = { 
-			popularity = 7
+			popularity = 11
 		}
 		
 		reformationism = { 
@@ -56,20 +56,20 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = jacobinist
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 38
+set_convoys = 46
 
 create_country_leader = {
-	name = "Giacomo Matteotti"
+	name = "Alfonso XIII"
 	desc = ""
-	picture = "Portrait_SIC_Giacomo_Matteotti.dds"
+	picture = "Portrait_SPR_Alfonso.dds"
 	expire = "1965.1.1"
-	ideology = revpop
+	ideology = absolute
 }
 
 create_field_marshal = {

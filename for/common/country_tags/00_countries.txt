@@ -9,9 +9,14 @@ NET = "countries/Netherlands.txt"
 SAR = "countries/Sardinia.txt"
 HRE = "countries/HolyRomanEmpire.txt"
 PRU = "countries/Prussia.txt"
+<<<<<<< HEAD
 BRI = "countries/Britain.txt"
 IRE = "countries/Ireland.txt"
 NOR = "countries/Norway.txt"
 SWE = "countries/Sweden.txt"
 FIN = "countries/Finland.txt"
 DEN = "countries/Denmark.txt"
+=======
+ARA = "countries/Aragon.txt"
+SPR = "countries/Spain.txt"
+>>>>>>> fef3e3be8b616d7abe6dca4357388ae36f2952d0

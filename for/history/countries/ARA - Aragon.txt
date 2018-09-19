@@ -1,4 +1,4 @@
-﻿capital = 115
+﻿capital = 167
 
 #OOB = "ALB_1936"
 
@@ -12,19 +12,19 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 18
+			popularity = 21
 		}
 		
 		revpop = {
-			popularity = 22
+			popularity = 23
 		}
 		
 		jacobinist = {
-			popularity = 33
+			popularity = 29
 		}
 		
 		republicanism = { 
-			popularity = 10
+			popularity = 17
 		}
 		
 		liberalism = { 
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 7
+			popularity = 0
 		}
 		
 		reformationism = { 
@@ -62,14 +62,14 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 38
+set_convoys = 21
 
 create_country_leader = {
-	name = "Giacomo Matteotti"
+	name = ""
 	desc = ""
-	picture = "Portrait_SIC_Giacomo_Matteotti.dds"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = revpop
+	ideology = jacobinist
 }
 
 create_field_marshal = {
