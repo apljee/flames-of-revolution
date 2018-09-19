@@ -15,7 +15,7 @@ set_politics = {
 			popularity = 18
 		}
 		
-		revrep = {
+		revpop = {
 			popularity = 22
 		}
 		
