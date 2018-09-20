@@ -67,7 +67,7 @@ set_convoys = 47
 create_country_leader = {
 	name = "Wilhelmina Orange-Nassau"
 	desc = ""
-	picture = "Portrait_NET_Wilhelmina_Orange-Nassau.dds"
+	picture = "Portrait_NET_Wilhemina_Orange_Nassau.dds"
 	expire = "1965.1.1"
 	ideology = absolute
 }
