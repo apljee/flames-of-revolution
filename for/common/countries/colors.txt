@@ -78,3 +78,11 @@ SPR = {
 	color = rgb { 243 211 116 }
 	color_ui = rgb { 204 174 85 }
 }
+POR = {
+	color = rgb { 13 141 152 }
+	color_ui = rgb { 8 96 104 }
+}
+HUN = {
+	color = rgb { 202 109 88 }
+	color_ui = rgb { 153 73 55 }
+}

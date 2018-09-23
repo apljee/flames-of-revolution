@@ -12,43 +12,43 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 21
+			popularity = 0
 		}
 		
 		revpop = {
-			popularity = 23
+			popularity = 20
 		}
 		
 		jacobinist = {
-			popularity = 29
+			popularity = 0
 		}
 		
 		republicanism = { 
-			popularity = 17
+			popularity = 0
 		}
 		
 		liberalism = { 
-			popularity = 10
+			popularity = 8
 		}
 		
 		parliamentarian = {
-			popularity = 0
+			popularity = 26
 		}
 		
 		toryism = {
-			popularity = 0
+			popularity = 15
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 2
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 21
 		}
 		
 		reactionism = { 
-			popularity = 0
+			popularity = 8
 		}
 		
 		reformationism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = jacobinist
+	ruling_party = parliamentarian
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 21
 
 create_country_leader = {
-	name = "Manuel Azaña"
+	name = "István Bethlen"
 	desc = ""
-	picture = "Portrait_ARA_Manuel_Azaña.dds"
+	picture = "Portrait_HUN_István_Bethlen.dds"
 	expire = "1965.1.1"
-	ideology = jacobinist
+	ideology = parliamentarian
 }
 
 create_field_marshal = {
