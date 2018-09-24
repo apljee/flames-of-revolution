@@ -1,0 +1,85 @@
+﻿capital = 70
+
+#OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 0
+		}
+		
+		revpop = {
+			popularity = 0
+		}
+		
+		jacobinist = {
+			popularity = 0
+		}
+		
+		republicanism = { 
+			popularity = 5
+		}
+		
+		liberalism = { 
+			popularity = 12
+		}
+		
+		parliamentarian = {
+			popularity = 5
+		}
+		
+		toryism = {
+			popularity = 10
+		}
+		
+		autdem = { 
+			popularity = 47
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
+		reactionism = { 
+			popularity = 20
+		}
+		
+		reformationism = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = autdem
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 0
+
+create_country_leader = {
+	name = "Jan Syrový"
+	desc = ""
+	picture = "Portrait_SLO_Jan_Syrový.dds"
+	expire = "1965.1.1"
+	ideology = autdem
+}
+
+create_field_marshal = {
+	name = "Xhemal Aranitasi"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

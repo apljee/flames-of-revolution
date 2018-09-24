@@ -86,3 +86,7 @@ HUN = {
 	color = rgb { 202 109 88 }
 	color_ui = rgb { 153 73 55 }
 }
+SLO = {
+	color = rgb { 198 185 169 }
+	color_ui = rgb { 155 147 138 }
+}
