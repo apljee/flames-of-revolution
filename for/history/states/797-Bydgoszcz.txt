@@ -1,9 +1,23 @@
 state={
 	id=797
 	name="STATE_797"
+	
+	history={
+		owner = POL
+		add_core_of = POL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 3
+
+		}
+
+	}
+	
 	provinces={
 		6401 9439 11515 
 	}
-	manpower=0
+	manpower=376345
 	buildings_max_level_factor=1.000
+	state_category=town
 }

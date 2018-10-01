@@ -90,3 +90,7 @@ SLO = {
 	color = rgb { 198 185 169 }
 	color_ui = rgb { 155 147 138 }
 }
+POL = {
+	color = rgb { 208 89 105 }
+	color_ui = rgb { 173 64 78 }
+}
