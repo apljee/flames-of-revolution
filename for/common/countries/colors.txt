@@ -94,3 +94,19 @@ POL = {
 	color = rgb { 208 89 105 }
 	color_ui = rgb { 173 64 78 }
 }
+MOR = {
+	color = rgb { 82 42 29 }
+	color_ui = rgb { 56 28 20 }
+}
+FNA = {
+	color = rgb { 13 46 116 }
+	color_ui = rgb { 13 46 74 }
+}
+EGY = {
+	color = rgb { 250 205 138 }
+	color_ui = rgb { 224 183 125 }
+}
+ETH = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 122 107 153 }
+}

@@ -1,4 +1,4 @@
-﻿capital = 16
+capital = 447
 
 #OOB = "ALB_1936"
 
@@ -14,9 +14,9 @@ set_politics = {
 		godwinist = { 
 			popularity = 0
 		}
-		
+
 		revpop = {
-			popularity = 13
+			popularity = 0
 		}
 		
 		jacobinist = {
@@ -28,23 +28,23 @@ set_politics = {
 		}
 		
 		liberalism = { 
-			popularity = 14
-		}
-		
-		parliamentarian = {
 			popularity = 0
+		}
+
+		parliamentarian = {
+			popularity = 23
 		}
 		
 		toryism = {
-			popularity = 7
+			popularity = 25
 		}
 		
 		autdem = { 
-			popularity = 15
+			popularity = 47
 		}
 		
 		absolute = {
-			popularity = 51
+			popularity = 5
 		}
 		
 		reactionism = { 
@@ -56,51 +56,24 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-create_faction = "L'Alliance Royale"
-add_to_faction = FRA
-add_to_faction = SAR
-add_to_faction = SPR
+set_convoys = 33
 
-set_convoys = 168
-
-#DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = QBC
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.5
-	}
-	set_autonomy = {
-		target = SAR
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.5
-	}
-	set_autonomy = {
-		target = FNA
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	else = {
-		puppet = QBC
-		puppet = SAR
-		puppet = FNA
-	}
-}
-
+#Victor Emmanuel III of Italy after 39
 create_country_leader = {
-	name = "Jean I de Bourbon"
-	desc = ""
-	picture = "Portrait_FRA_Jean_I_de_Bourbon.dds"
+	name = "King Zog"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Albania_King_Zog.dds"
 	expire = "1965.1.1"
-	ideology = absolute
+	ideology = despotism
+	traits = {
+		#
+	}
 }
 
 create_field_marshal = {
