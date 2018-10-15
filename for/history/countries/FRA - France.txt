@@ -96,9 +96,9 @@ if = {
 }
 
 create_country_leader = {
-	name = "Jean I de Bourbon"
+	name = "Philippe VIII de Bourbon"
 	desc = ""
-	picture = "Portrait_FRA_Jean_I_de_Bourbon.dds"
+	picture = "Portrait_FRA_Philippe_VIII.dds"
 	expire = "1965.1.1"
 	ideology = absolute
 }
