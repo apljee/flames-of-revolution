@@ -14,8 +14,8 @@ QBC = {
 	color_ui = rgb { 40 74 130 }
 }
 ITA = {
-	color = rgb { 15 105 47 }
-	color_ui = rgb { 6 76 31 }
+	color = rgb { 59 148 65 }
+	color_ui = rgb { 43 106 48 }
 }
 SIC = {
 	color = rgb { 91 26 26 }
@@ -26,8 +26,8 @@ PAP = {
 	color_ui = rgb { 163 160 70 }
 }
 FRA = {
-	color = rgb { 13 46 116 }
-	color_ui = rgb { 13 46 74 }
+	color = rgb { 22 62 135 }
+	color_ui = rgb { 19 53 117 }
 }
 NET = {
 	color = rgb { 223 137 52 }
@@ -113,4 +113,8 @@ ETH = {
 QIN = {
 	color = rgb { 193 173 64 }
 	color_ui = rgb { 175 157 54 }
+}
+JAP = {
+	color = rgb { 252 201 185 }
+	color_ui = rgb { 229 178 162 }
 }
