@@ -11,7 +11,7 @@ state=
 	
 
 	history= {
-		owner = COL
+		owner = SWE
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

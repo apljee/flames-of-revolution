@@ -1,4 +1,4 @@
-﻿capital = 16
+﻿capital = 297
 
 #OOB = "ALB_1936"
 
@@ -62,60 +62,19 @@ set_politics = {
 	elections_allowed = no
 }
 
-create_faction = "L'Alliance Royale"
-add_to_faction = FRA
-add_to_faction = QBC
-add_to_faction = FNA
-add_to_faction = FCA
-add_to_faction = FWA
-add_to_faction = SAR
-add_to_faction = SPR
+set_convoys = 12
 
-set_convoys = 168
-
-#DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	puppet = SAR
-	set_autonomy = {
-		target = QBC
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.5
-	}
-	set_autonomy = {
-		target = FNA
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
-	set_autonomy = {
-		target = FWA
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
-	set_autonomy = {
-		target = FCA
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
-	else = {
-		puppet = QBC
-		puppet = SAR
-		puppet = FNA
-		puppet = FWA
-		puppet = FCA
-	}
-}
-
+#Victor Emmanuel III of Italy after 39
 create_country_leader = {
-	name = "Jean I de Bourbon"
-	desc = ""
-	picture = "Portrait_FRA_Jean_I_de_Bourbon.dds"
+	name = "King Zog"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Albania_King_Zog.dds"
 	expire = "1965.1.1"
-	ideology = absolute
+	ideology = despotism
+	traits = {
+		#
+	}
 }
-
 create_field_marshal = {
 	name = "Xhemal Aranitasi"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
