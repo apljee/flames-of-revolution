@@ -1,4 +1,4 @@
-﻿capital = 16
+﻿capital = 458
 
 #OOB = "ALB_1936"
 
@@ -16,7 +16,7 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 13
+			popularity = 0
 		}
 		
 		jacobinist = {
@@ -24,11 +24,11 @@ set_politics = {
 		}
 		
 		republicanism = { 
-			popularity = 0
+			popularity = 20
 		}
 		
 		liberalism = { 
-			popularity = 14
+			popularity = 0
 		}
 		
 		parliamentarian = {
@@ -36,15 +36,15 @@ set_politics = {
 		}
 		
 		toryism = {
-			popularity = 7
+			popularity = 10
 		}
 		
 		autdem = { 
-			popularity = 15
+			popularity = 70
 		}
 		
 		absolute = {
-			popularity = 51
+			popularity = 0
 		}
 		
 		reactionism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
