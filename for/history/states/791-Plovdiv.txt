@@ -1,9 +1,20 @@
 state={
 	id=791
 	name="STATE_791"
+	
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		add_core_of = BUL
+	}
+	
 	provinces={
 		935 3908 3937 6857 9818 11813 
 	}
-	manpower=0
+	manpower=1273456
 	buildings_max_level_factor=1.000
+	state_category=town
 }

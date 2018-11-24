@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = COL
+		owner = GRA
 		buildings = {
 			infrastructure = 3
 			3284 = {

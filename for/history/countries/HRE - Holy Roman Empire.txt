@@ -1,4 +1,4 @@
-﻿capital = 16
+﻿capital = 4
 
 #OOB = "ALB_1936"
 
@@ -63,6 +63,21 @@ set_politics = {
 }
 
 set_convoys = 127
+
+#DIPLOMACY
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = GAF
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+	else = {
+		puppet = GAF
+	}	
+}
 
 create_country_leader = {
 	name = "Holy Roman Emperor Francis III"

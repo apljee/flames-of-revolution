@@ -1,0 +1,26 @@
+
+state={
+	id=295
+	name="STATE_295"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = POR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			191 1 
+		}
+	}
+
+	provinces={
+		191 1516 1817 1929 1968 4515 9986 12795 12907 
+	}
+	manpower=3540948
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

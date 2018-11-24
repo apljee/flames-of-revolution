@@ -1,4 +1,4 @@
-﻿capital = 167
+﻿capital = 43
 
 #OOB = "ALB_1936"
 
@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 0
+			popularity = 15
 		}
 		
 		revpop = {
-			popularity = 20
+			popularity = 0
 		}
 		
 		jacobinist = {
@@ -28,44 +28,44 @@ set_politics = {
 		}
 		
 		liberalism = { 
-			popularity = 8
+			popularity = 0
 		}
 		
 		parliamentarian = {
-			popularity = 26
+			popularity = 0
 		}
 		
 		toryism = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		autdem = { 
-			popularity = 2
+			popularity = 10
 		}
 		
 		absolute = {
-			popularity = 21
+			popularity = 0
 		}
 		
 		reactionism = { 
-			popularity = 8
+			popularity = 69
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 6
 		}
 	}
 	
-	ruling_party = parliamentarian
+	ruling_party = reactionism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 21
+set_convoys = 0
 
 create_country_leader = {
-	name = "István Bethlen"
+	name = ""
 	desc = ""
 	picture = "Portrait_HUN_István_Bethlen.dds"
 	expire = "1965.1.1"
