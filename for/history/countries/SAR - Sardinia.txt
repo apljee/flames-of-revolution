@@ -62,18 +62,14 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 47
+set_convoys = 17
 
-#Victor Emmanuel III of Italy after 39
 create_country_leader = {
-	name = "King Zog"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	name = "Amadeo II"
+	desc = ""
+	picture = "Portrait_SAR_Amadeo_II.dds"
 	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = absolute
 }
 
 create_field_marshal = {

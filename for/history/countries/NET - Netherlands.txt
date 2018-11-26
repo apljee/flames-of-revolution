@@ -80,9 +80,9 @@ if = {
 }
 
 create_country_leader = {
-	name = "Wilhelmina Orange-Nassau"
+	name = "Wilhelmina"
 	desc = ""
-	picture = "Portrait_NET_Wilhemina_Orange_Nassau.dds"
+	picture = "Portrait_NET_Wilhelmina.dds"
 	expire = "1965.1.1"
 	ideology = absolute
 }

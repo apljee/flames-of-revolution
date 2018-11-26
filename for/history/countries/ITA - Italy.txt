@@ -40,7 +40,7 @@ set_politics = {
 		}
 		
 		toryism = {
-			popularity = 24
+			popularity = 12
 		}
 		
 		autdem = { 
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 12
+			popularity = 24
 		}
 		
 		reactionism = { 
@@ -60,13 +60,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 48
+
+create_country_leader = {
+	name = "Napoleon Bonaparte VI"
+	desc = ""
+	picture = "Portrait_ITA_Napoleon_Bonaparte_VI.dds"
+	expire = "1965.1.1"
+	ideology = absolute
+}
 
 create_country_leader = {
 	name = "Ferruccio Parri"

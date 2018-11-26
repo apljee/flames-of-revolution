@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 0
 
 create_country_leader = {
-	name = ""
+	name = "Ferenc Szalasi"
 	desc = ""
-	picture = "Portrait_HUN_István_Bethlen.dds"
+	picture = "Portrait_HUN_Ferenc_Szalasi.dds"
 	expire = "1965.1.1"
-	ideology = parliamentarian
+	ideology = reactionism
 }
 
 create_field_marshal = {

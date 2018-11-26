@@ -28,11 +28,11 @@ set_politics = {
 		}
 		
 		liberalism = { 
-			popularity = 0
+			popularity = 10
 		}
 		
 		parliamentarian = {
-			popularity = 16
+			popularity = 35
 		}
 		
 		toryism = {
@@ -40,11 +40,11 @@ set_politics = {
 		}
 		
 		autdem = { 
-			popularity = 31
+			popularity = 15
 		}
 		
 		absolute = {
-			popularity = 13
+			popularity = 0
 		}
 		
 		reactionism = {
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = parliamentarian
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 19
 
 create_country_leader = {
-	name = "Frederick Charles I"
+	name = "Risto Ryti"
 	desc = ""
-	picture = "Portrait_FIN_Frederick_Charles.dds"
+	picture = "Portrait_FIN_Risto_Ryti.dds"
 	expire = "1965.1.1"
-	ideology = autdem
+	ideology = parliamentarian
 	traits = {
 		#
 	}

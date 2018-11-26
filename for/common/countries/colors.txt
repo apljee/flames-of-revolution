@@ -179,8 +179,8 @@ SER = {
 	color_ui = rgb { 80 57 124 }
 }
 ALB = {
-	color = rgb { 86 0 34 }
-	color_ui = rgb { 53 0 21 }
+	color = rgb { 155 44 95 }
+	color_ui = rgb { 127 29 74 }
 }
 GRE = {
 	color = rgb { 122 184 210 }
@@ -221,4 +221,8 @@ ARG = {
 BRA = {
 	color = rgb { 97 180 10 }
 	color_ui = rgb { 74 140 5 }
+}
+OTT = {
+	color = rgb { 131 148 113 }
+	color_ui = rgb { 103 122 83 }
 }

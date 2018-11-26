@@ -5,7 +5,6 @@ state={
 	history={
 		owner = SIC
 		add_core_of = SIC
-		add_core_of = ITA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

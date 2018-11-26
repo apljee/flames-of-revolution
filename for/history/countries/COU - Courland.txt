@@ -16,7 +16,7 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 0
+			popularity = 11
 		}
 		
 		jacobinist = {
@@ -24,7 +24,7 @@ set_politics = {
 		}
 		
 		republicanism = { 
-			popularity = 0
+			popularity = 9
 		}
 		
 		liberalism = { 
@@ -48,11 +48,11 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 23
+			popularity = 10
 		}
 		
 		reformationism = { 
-			popularity = 17
+			popularity = 10
 		}
 	}
 	
@@ -65,9 +65,9 @@ set_politics = {
 set_convoys = 4
 
 create_country_leader = {
-	name = ""
+	name = "Kārlis Goppers"
 	desc = ""
-	picture = "Portrait_POL_Józef_Piłsudski.dds"
+	picture = "Portrait_COU_Kārlis_Goppers.dds"
 	expire = "1965.1.1"
 	ideology = autdem
 }

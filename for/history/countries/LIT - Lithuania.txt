@@ -65,9 +65,9 @@ set_politics = {
 set_convoys = 8
 
 create_country_leader = {
-	name = ""
+	name = "Jonas Žemaitis"
 	desc = ""
-	picture = "Portrait_POL_Józef_Piłsudski.dds"
+	picture = "Portrait_LIT_Jonas_Žemaitis.dds"
 	expire = "1965.1.1"
 	ideology = autdem
 }

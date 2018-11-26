@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 11
 
 create_country_leader = {
-	name = "John M. Parker"
+	name = "George II"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_GRE_George_II.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
+	ideology = absolute
 	traits = {
 
 	}

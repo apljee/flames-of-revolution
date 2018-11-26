@@ -1,4 +1,4 @@
-﻿capital = 3
+﻿capital = 48
 
 #OOB = "ALB_1936"
 
@@ -65,14 +65,11 @@ set_politics = {
 set_convoys = 14
 
 create_country_leader = {
-	name = "John M. Parker"
+	name = "Ferdinand I"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_BUL_Ferdinand.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
-	traits = {
-
-	}
+	ideology = absolute
 }
 
 create_field_marshal = {

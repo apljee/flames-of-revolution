@@ -65,14 +65,11 @@ set_politics = {
 set_convoys = 0
 
 create_country_leader = {
-	name = "John M. Parker"
+	name = "Alexander I"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_SER_Alexander_I.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
-	traits = {
-
-	}
+	ideology = absolute
 }
 
 create_field_marshal = {
