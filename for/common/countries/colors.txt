@@ -226,3 +226,11 @@ OTT = {
 	color = rgb { 131 148 113 }
 	color_ui = rgb { 103 122 83 }
 }
+RUS = {
+	color = rgb { 0 127 14 }
+	color_ui = rgb { 4 96 14 }
+}
+MOS = {
+	color = rgb { 135 13 24 }
+	color_ui = rgb { 91 5 13 }
+}

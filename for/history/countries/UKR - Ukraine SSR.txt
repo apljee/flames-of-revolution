@@ -12,7 +12,7 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 5
+			popularity = 0
 		}
 		
 		revpop = {
@@ -20,7 +20,7 @@ set_politics = {
 		}
 		
 		jacobinist = {
-			popularity = 7
+			popularity = 12
 		}
 		
 		republicanism = { 
@@ -40,19 +40,19 @@ set_politics = {
 		}
 		
 		autdem = { 
-			popularity = 14
+			popularity = 15
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		reactionism = { 
-			popularity = 32
+			popularity = 25
 		}
 		
 		reformationism = { 
-			popularity = 10
+			popularity = 0
 		}
 	}
 	

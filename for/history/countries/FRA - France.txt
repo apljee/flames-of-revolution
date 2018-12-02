@@ -78,7 +78,6 @@ if = {
 	limit = {
 		has_dlc = "Together for Victory"
 	}
-	puppet = SAR
 	set_autonomy = {
 		target = QBC
 		autonomous_state = autonomy_dominion
@@ -101,7 +100,6 @@ if = {
 	}
 	else = {
 		puppet = QBC
-		puppet = SAR
 		puppet = FNA
 		puppet = FWA
 		puppet = FCA
