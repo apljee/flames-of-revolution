@@ -1,0 +1,19 @@
+state={
+	id=772
+	name="STATE_772"
+	state_category = city
+	history={
+		owner = SIC
+		add_core_of = SIC
+		buildings = {
+			infrastructure = 5
+			dockyard = 2
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		883 6843 6979 9784 11837 11998 
+	}
+	manpower=887212
+	buildings_max_level_factor=1.000
+}

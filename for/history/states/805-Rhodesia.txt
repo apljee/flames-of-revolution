@@ -1,0 +1,23 @@
+state={
+	id=805
+	name="STATE_805"
+	
+	history={
+		owner = POR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10929 1 
+		}
+
+	}
+	
+	provinces={
+		1874 2151 2216 4851 7842 10929 
+	}
+	manpower=2948563
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

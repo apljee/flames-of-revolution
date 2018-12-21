@@ -28,35 +28,35 @@ set_politics = {
 		}
 		
 		liberalism = { 
-			popularity = 0
+			popularity = 18
 		}
 		
 		parliamentarian = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		toryism = {
-			popularity = 20
+			popularity = 22
 		}
 		
 		autdem = { 
-			popularity = 10
+			popularity = 25
 		}
 		
 		absolute = {
-			popularity = 60
+			popularity = 0
 		}
 		
 		reactionism = { 
-			popularity = 10
+			popularity = 5
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 20
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_QBC_Maurice_Duplessis.dds"
 	expire = "1965.1.1"
-	ideology = absolute
+	ideology = autdem
 	traits = {
 	}
 }

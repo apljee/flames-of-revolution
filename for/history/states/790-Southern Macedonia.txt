@@ -1,0 +1,21 @@
+state={
+	id=790
+	name="STATE_790"
+	
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+		}
+		add_core_of = GRE
+
+	}
+	
+	provinces={
+		841 966 3844 3980 6930 
+	}
+	manpower=783945
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

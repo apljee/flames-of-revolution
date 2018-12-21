@@ -1,0 +1,23 @@
+state={
+	id=780
+	name="STATE_780"
+	
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			air_base = 1
+
+		}
+		add_core_of = SER
+
+	}
+	
+	provinces={
+		630 9602 9756 9906 11887 
+	}
+	manpower=1334531
+	buildings_max_level_factor=1.000
+	state_category=town
+}

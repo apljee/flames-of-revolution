@@ -12,23 +12,23 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 10
+			popularity = 13
 		}
 		
 		revpop = {
-			popularity = 50
+			popularity = 58
 		}
 		
 		jacobinist = {
-			popularity = 25
+			popularity = 19
 		}
 		
 		republicanism = { 
-			popularity = 9
+			popularity = 10
 		}
 		
 		liberalism = { 
-			popularity = 6
+			popularity = 0
 		}
 		
 		parliamentarian = {

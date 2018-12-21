@@ -9,10 +9,6 @@ COL = {
 	color = rgb { 83 162 222 }
 	color_ui = rgb { 52 125 181 }
 }
-MEX = {
-	color = rgb { 80 156 85 }
-	color_ui = rgb { 58 130 63 }
-}
 QBC = {
 	color = rgb { 52 90 153 }
 	color_ui = rgb { 40 74 130 }
@@ -190,38 +186,6 @@ BUL = {
 	color = rgb { 0 159 60 }
 	color_ui = rgb { 0 117 44 }
 }
-CAR = {
-	color = rgb { 109 153 169 }
-	color_ui = rgb { 88 135 153 }
-}
-ANT = {
-	color = rgb { 181 51 137 }
-	color_ui = rgb { 127 30 94 }
-}
-GRA = {
-	color = rgb { 245 199 90 }
-	color_ui = rgb { 204 162 65 }
-}
-PEU = {
-	color = rgb { 135 14 14 }
-	color_ui = rgb { 112 6 6 }
-}
-BOL = {
-	color = rgb { 0 90 136 }
-	color_ui = rgb { 0 79 119 }
-}
-CHL = {
-	color = rgb { 13 114 132 }
-	color_ui = rgb { 8 90 104 }
-}
-ARG = {
-	color = rgb { 148 220 232 }
-	color_ui = rgb { 113 186 198 }
-}
-BRA = {
-	color = rgb { 97 180 10 }
-	color_ui = rgb { 74 140 5 }
-}
 OTT = {
 	color = rgb { 131 148 113 }
 	color_ui = rgb { 103 122 83 }
@@ -233,4 +197,16 @@ RUS = {
 MOS = {
 	color = rgb { 135 13 24 }
 	color_ui = rgb { 91 5 13 }
+}
+CAL = {
+	color = rgb { 239 228 176 }
+	color_ui = rgb { 196 186 141 }
+}
+RIO = {
+	color = rgb { 99 3 53 }
+	color_ui = rgb { 79 2 42 }
+}
+MEX = {
+	color = rgb { 64 140 69 }
+	color_ui = rgb { 52 127 57 }
 }

@@ -1,0 +1,20 @@
+state={
+	id=777
+	name="STATE_777"
+	state_category=large_town
+	provinces={
+		747 950 1090 1176 1192 4065 4095 7196 10063 10111 11956 12038 12083 
+	}
+	history={
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 2
+			infrastructure = 4
+			air_base = 1
+		}
+	}
+	manpower=873456
+	buildings_max_level_factor=1.000
+}

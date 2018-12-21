@@ -1,0 +1,19 @@
+state={
+	id=779
+	name="STATE_779"
+	state_category=large_town	
+	provinces={
+		3898 3899 9824 11779 
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 2
+			infrastructure = 2
+		}
+	}
+	manpower=423432
+	buildings_max_level_factor=1.000
+}

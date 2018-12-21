@@ -1,0 +1,20 @@
+state={
+	id=796
+	name="STATE_796"
+	
+	history={
+		owner = FNA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = FNA
+	}
+
+	provinces={
+		1057 1060 1140 1994 4191 10104 10754 10785 11951 
+	}
+	manpower=21882
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
+}

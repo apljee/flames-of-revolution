@@ -62,7 +62,12 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 5
+create_faction = "American Union"
+add_to_faction = LOU
+add_to_faction = COL
+add_to_faction = CAL
+
+set_convoys = 36
 
 create_country_leader = {
 	name = "John M. Parker"

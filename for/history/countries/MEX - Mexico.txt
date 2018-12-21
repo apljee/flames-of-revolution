@@ -1,4 +1,4 @@
-﻿capital = 277
+﻿capital = 371
 
 #OOB = "ALB_1936"
 
@@ -16,39 +16,39 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 15
-		}
-		
-		jacobinist = {
-			popularity = 6
-		}
-		
-		republicanism = { 
-			popularity = 5
-		}
-		
-		liberalism = { 
-			popularity = 15
-		}
-
-		parliamentarian = {
-			popularity = 5
-		}
-		
-		toryism = {
-			popularity = 5
-		}
-		
-		autdem = { 
 			popularity = 0
 		}
 		
+		jacobinist = {
+			popularity = 15
+		}
+		
+		republicanism = { 
+			popularity = 0
+		}
+		
+		liberalism = { 
+			popularity = 0
+		}
+
+		parliamentarian = {
+			popularity = 0
+		}
+		
+		toryism = {
+			popularity = 0
+		}
+		
+		autdem = { 
+			popularity = 10
+		}
+		
 		absolute = {
-			popularity = 30
+			popularity = 60
 		}
 		
 		reactionism = { 
-			popularity = 24
+			popularity = 15
 		}
 		
 		reformationism = { 
@@ -62,14 +62,14 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 63
+set_convoys = 23
 
 create_country_leader = {
-	name = "John M. Parker"
+	name = "Carlos I"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_MEX_Carlos_I.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
+	ideology = absolute
 	traits = {
 
 	}

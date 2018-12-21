@@ -1,0 +1,22 @@
+state={
+	id=791
+	name="STATE_791"
+	
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			
+		}
+		add_core_of = BLR
+
+	}
+	
+	provinces={
+		535 560 3256 3309 3496 3556 6280 6306 6415 6579 9520 11285 11341 11503 11528 
+	}
+	manpower=983456
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -16,19 +16,19 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 50
+			popularity = 46
 		}
 		
 		jacobinist = {
-			popularity = 25
+			popularity = 32
 		}
 		
 		republicanism = { 
-			popularity = 9
+			popularity = 12
 		}
 		
 		liberalism = { 
-			popularity = 6
+			popularity = 0
 		}
 		
 		parliamentarian = {

@@ -12,7 +12,7 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 0
+			popularity = 20
 		}
 		
 		revpop = {
@@ -20,7 +20,7 @@ set_politics = {
 		}
 		
 		jacobinist = {
-			popularity = 0
+			popularity = 8
 		}
 		
 		republicanism = { 
@@ -36,15 +36,15 @@ set_politics = {
 		}
 		
 		toryism = {
-			popularity = 7
+			popularity = 0
 		}
 		
 		autdem = { 
-			popularity = 15
+			popularity = 45
 		}
 		
 		absolute = {
-			popularity = 51
+			popularity = 0
 		}
 		
 		reactionism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

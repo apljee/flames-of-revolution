@@ -16,11 +16,11 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 5
+			popularity = 0
 		}
 		
 		jacobinist = {
-			popularity = 5
+			popularity = 0
 		}
 		
 		republicanism = { 
@@ -32,15 +32,15 @@ set_politics = {
 		}
 		
 		parliamentarian = {
-			popularity = 37
+			popularity = 0
 		}
 		
 		toryism = {
-			popularity = 31
+			popularity = 0
 		}
 		
 		autdem = { 
-			popularity = 10
+			popularity = 100
 		}
 		
 		absolute = {
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 12
+			popularity = 0
 		}
 		
 		reformationism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = parliamentarian
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -64,16 +64,12 @@ set_politics = {
 
 set_convoys = 39
 
-#Victor Emmanuel III of Italy after 39
 create_country_leader = {
-	name = "King Zog"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	name = "Richard Mulcahy"
+	desc = ""
+	picture = "Portrait_IRE_Richard_Mulcahy.dds"
 	expire = "1965.1.1"
-	ideology = parliamentarian
-	traits = {
-		#
-	}
+	ideology = autdem
 }
 
 create_field_marshal = {

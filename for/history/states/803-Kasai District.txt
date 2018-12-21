@@ -1,0 +1,21 @@
+state={
+	id=803
+	name="STATE_803"
+	
+	state_category = rural
+	
+	history = {
+		owner = SPR
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces={
+		4128 10025 12896 12945 
+	}
+	manpower=98234
+	buildings_max_level_factor=1.000
+}

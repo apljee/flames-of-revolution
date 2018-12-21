@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 0
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Carol II"
 	desc = ""
-	picture = "Portrait_POL_Józef_Piłsudski.dds"
+	picture = "Portrait_ROM_Carol_II.dds"
 	expire = "1965.1.1"
-	ideology = autdem
+	ideology = absolute
 }
 
 create_field_marshal = {

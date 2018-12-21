@@ -1,0 +1,21 @@
+state={
+	id=800
+	name="STATE_800"
+	
+		state_category = town
+
+	history = {
+		owner = SWE
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces={
+		10762 10803 10862 12742 
+	}
+	manpower=198345
+	buildings_max_level_factor=1.000
+}
