@@ -15,7 +15,7 @@ bookmarks = {
 			history = "USA_GATHERING_STORM_DESC"
 			ideology = absolute
 		}
-		"HRE"={
+		"GER"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = absolute
 		}

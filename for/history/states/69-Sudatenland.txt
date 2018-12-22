@@ -11,13 +11,13 @@ state=
 	}
 	
 	history={
-		owner = HRE
+		owner = GER
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 2
 			anti_air_building = 1
 		}
-		add_core_of = HRE
+		add_core_of = GER
 	}
 	provinces=
 	{
