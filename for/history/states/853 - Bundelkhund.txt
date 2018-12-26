@@ -1,0 +1,22 @@
+
+state={
+	id=853
+	name="STATE_853"
+	
+	history={
+		owner = BNK
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = BNK
+
+	}
+	
+	provinces={
+		2005 4045 4410 5040 5096 7938 10332 
+	}
+	manpower=1392834
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
