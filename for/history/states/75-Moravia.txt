@@ -10,7 +10,7 @@ state={
 	state_category = city
 
 	history={
-		owner = GER
+		owner = HRE
 		victory_points = {
 			3569 1 
 		}
@@ -20,7 +20,7 @@ state={
 			air_base = 5
 
 		}
-		add_core_of = GER
+		add_core_of = HRE
 	}
 
 	provinces={

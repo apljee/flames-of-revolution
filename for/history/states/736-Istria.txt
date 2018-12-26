@@ -5,8 +5,8 @@ state={
 	state_category = city
 
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = HRE
+		add_core_of = HRE
 		buildings = {
 			infrastructure = 2
 			11735 = {
