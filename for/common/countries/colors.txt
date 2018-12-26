@@ -6,8 +6,8 @@ LOU = {
 	color_ui = rgb { 124 98 186 }
 }
 COL = {
-	color = rgb { 40 65 170 }
-	color_ui = rgb { 40 65 170 }
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
 }
 QBC = {
 	color = rgb { 55 105 206 }
@@ -39,10 +39,10 @@ SAR = {
 }
 GER = {
 	color = rgb { 177 177 177 }
-	color_ui = rgb { 130 130 130 }
+	color_ui = rgb { 138 155 116 }
 }
 PRU = {
-	color = rgb { 53 52 51 }
+	color = rgb { 77 93 83 }
 	color_ui = rgb { 33 32 32 }
 }
 <<<<<<< HEAD

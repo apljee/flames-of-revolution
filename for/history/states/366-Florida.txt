@@ -26,6 +26,7 @@ state={
 			}
 		}
 		add_core_of = COL
+		set_demilitarized_zone = yes
 		victory_points = {
 			1843 5 
 		}

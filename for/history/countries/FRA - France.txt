@@ -321,9 +321,9 @@ FWA = {
 }
 
 create_country_leader = {
-	name = "Philippe VIII de Bourbon"
+	name = "Henri VI"
 	desc = ""
-	picture = "Portrait_FRA_Philippe_VIII.dds"
+	picture = "Portrait_FRA_Henri_VI.dds"
 	expire = "1965.1.1"
 	ideology = absolute
 }
