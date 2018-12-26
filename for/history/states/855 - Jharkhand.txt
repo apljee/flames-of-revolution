@@ -4,19 +4,19 @@ state={
 	name="STATE_855"
 	
 	history={
-		owner = FIC
+		owner = MRH
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = FIC
+		add_core_of = MRH
 
 	}
 	
 	provinces={
-		4187 7150 7165 11952
+		1444 1637 10358 10471 12035 12307 12452
 	}
-	manpower=1692834
+	manpower=2692834
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

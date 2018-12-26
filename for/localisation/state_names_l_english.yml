@@ -433,7 +433,7 @@
  STATE_432:0 "Assam"
  STATE_433:0 "Rajahsthan"
  STATE_434:0 "Arunachal Pradesh"
- STATE_435:0 "Bihar"
+ STATE_435:0 "Mithila"
  STATE_436:0 "Jabalpur"
  STATE_437:0 "Indore"
  STATE_438:0 "Lucknow"
@@ -854,3 +854,4 @@
  STATE_853:0 "Bundelkhand"
  STATE_854:0 "Surat"
  STATE_855:0 "Jharkhand"
+ STATE_856:0 "Bihar"
