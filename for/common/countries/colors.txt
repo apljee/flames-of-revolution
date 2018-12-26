@@ -215,3 +215,55 @@ MEX = {
 	color = rgb { 64 140 69 }
 	color_ui = rgb { 52 127 57 }
 }
+NEP = {
+	color = rgb { 152  130  191 }
+	color_ui = rgb { 152  130  191 }
+}
+AFG = {
+	color = rgb { 64  160  167  }
+	color_ui = rgb { 64  160  167  }
+}
+EIC = {
+	color = rgb { 170  10  10  }
+	color_ui = rgb { 170  10  10  }
+}
+RJA = {
+	color = rgb { 250 173 53   }
+	color_ui = rgb { 250 173 53   }
+}
+BHU = {
+	color = rgb { 172 122 88 }
+	color_ui = rgb { 172 122 88 }
+}
+MRH = {
+	color = rgb { 67  124  181 }
+	color_ui = rgb { 67  124  181 }
+}
+HYD = {
+	color = rgb {241 195 94}
+	color_ui = rgb {241 195 94}
+}
+SIK = {
+	color = rgb {139  138  160}
+	color_ui = rgb {139  138  160}
+}
+OUD = {
+	color = rgb {122  179  97}
+	color_ui = rgb {122  179  97}
+}
+DLH = {
+	color = rgb {157  200  42 }
+	color_ui = rgb {157  200  42 }
+}
+BNK = {
+	color = rgb {174 139 78}
+	color_ui = rgb {174 139 78 }
+}
+FIC = {
+	color = rgb {75 110 173}
+	color_ui = rgb {75 110 173 }
+}
+GUJ = {
+	color = rgb {242 219 183}
+	color_ui = rgb {242 219 183}
+}
