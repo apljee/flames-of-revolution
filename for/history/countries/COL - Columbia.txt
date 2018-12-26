@@ -12,19 +12,19 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 0
+			popularity = 5
 		}
 
 		revpop = {
-			popularity = 13
+			popularity = 10
 		}
 		
 		jacobinist = {
-			popularity = 4
+			popularity = 10
 		}
 		
 		republicanism = { 
-			popularity = 12
+			popularity = 9
 		}
 		
 		liberalism= { 
@@ -32,15 +32,15 @@ set_politics = {
 		}
 
 		parliamentarian = {
-			popularity = 11
+			popularity = 13
 		}
 		
 		toryism = {
-			popularity = 21
+			popularity = 15
 		}
 		
 		autdem = { 
-			popularity = 2
+			popularity = 0
 		}
 		
 		absolute = {
@@ -48,15 +48,15 @@ set_politics = {
 		}
 		
 		reactionism = {
-			popularity = 15
+			popularity = 10
 		}
 		
 		reformationism = { 
-			popularity = 4
+			popularity = 10
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 119
 
 create_country_leader = {
-	name = "Ellison D. Smith"
+	name = "Charles E. Hughes"
 	desc = ""
-	picture = "Portrait_COL_Ellison_D_Smith.dds"
+	picture = "Portrait_COL_Charles-Evans-Hughes.dds"
 	expire = "1965.1.1"
-	ideology = toryism
+	ideology = liberalism
 	traits = {
 	}
 }

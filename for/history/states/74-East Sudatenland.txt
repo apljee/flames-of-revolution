@@ -9,12 +9,12 @@ state=
 	
 	history=
 	{
-		owner = HRE
+		owner = GER
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
 		}
-		add_core_of = HRE
+		add_core_of = GER
 	}
 	provinces= {
 		421 3414 3583 6485
