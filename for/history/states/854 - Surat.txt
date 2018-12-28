@@ -9,8 +9,9 @@ state={
 			infrastructure = 5
 
 		}
-		add_core_of = FIC
-
+		victory_points = {
+			7150 5
+		}
 	}
 	
 	provinces={

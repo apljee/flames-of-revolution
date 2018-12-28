@@ -1,0 +1,25 @@
+
+state={
+	id=321
+	name="STATE_321"
+	manpower = 5533952
+
+	state_category = rural
+
+	history={
+		owner = PIC
+		victory_points = {
+			1273 1 
+		}
+		buildings = {
+			infrastructure = 5
+			1273 ={
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		1273 4278 4291 4395 7250 7395 10799 12105 12208 10259
+	}
+}

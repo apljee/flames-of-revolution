@@ -235,8 +235,8 @@ BHU = {
     color_ui = rgb { 172 122 88 }
 }
 MRH = {
-    color = rgb { 67  124  181 }
-    color_ui = rgb { 67  124  181 }
+    color = rgb { 253 106 2 }
+    color_ui = rgb { 253 106 2 }
 }
 HYD = {
     color = rgb {241 195 94}
@@ -265,4 +265,32 @@ FIC = {
 GUJ = {
     color = rgb {242 219 183}
     color_ui = rgb {242 219 183}
+}
+SIN = {
+	color = rgb {135  104  85}
+	color_ui = rgb {135  104  85}
+}
+PIC = {
+	color = rgb {13 141 132}
+	color_ui = rgb {13 141 132}
+}
+MYS = { 
+	color = rgb {236  242  243}
+	color_ui = rgb {236  242  243}
+}
+DIC = { 
+	color = rgb {241 156 55}
+	color_ui = rgb {241 156 55}
+}
+TRV = {
+	color = rgb { 174 28 40 }
+	color_ui = rgb {174 28 40}
+}
+SHN = {
+	color = rgb {26 165 26}
+	color_ui = rgb {26 165 26}
+}
+PEG = {
+	color = rgb {223 229 207}
+	color_ui = rgb {223 229 207}
 }

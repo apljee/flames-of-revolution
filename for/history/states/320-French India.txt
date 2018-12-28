@@ -1,0 +1,20 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 5286410
+
+	state_category = enclave
+
+	history={
+		owner = FIC
+		buildings = {
+			infrastructure = 5
+			10149 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={ 1268 4420 7436 8067 10149 10278 10808}
+}

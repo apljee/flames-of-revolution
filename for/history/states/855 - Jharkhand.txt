@@ -10,7 +10,10 @@ state={
 
 		}
 		add_core_of = MRH
-
+	victory_points = {
+			12307 3
+			
+		}
 	}
 	
 	provinces={

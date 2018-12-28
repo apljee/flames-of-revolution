@@ -1206,8 +1206,8 @@
  AFG_reactionism_ADJ:0 "Pashtun"
  AFG_reformationism_ADJ:0 "Kabul Caliphate"
 ###############################################
- EIC_autdem:0 "EIC"
- EIC_autdem_DEF:0 "East India Company"
+ EIC_autdem:0 "East India Company"
+ EIC_autdem_DEF:0 "The East India Company"
  EIC_autdem_ADJ:0 "Company"
  ###############################################
  NEP_absolute:0 "Kingdom of Nepal"
@@ -1257,6 +1257,34 @@
  BIH_maratha_absolute:0 "Shahabad State"
  BIH_maratha_absolute_DEF:0 "The Protectorate of Shahabad State"
  BIH_maratha_absolute_ADJ:0 "Shahabadi"
+ ###############################################
+ SIN_absolute:0 "Talpur Emirate"
+ SIN_absolute_DEF:0 "The Emirate of Talpur Balochs"
+ SIN_absolute_ADJ:0 "Talpur"
+ ###############################################
+ PIC_POR_autdem:0 "Portuguese India"
+ PIC_POR_autdem_DEF:0 "The Portuguese Indian Territories"
+ PIC_POR_autdem_ADJ:0 "Portuguese Indian"
+ ###############################################
+ DIC_NET_autdem:0 "Dutch India"
+ DIC_NET_autdem_DEF:0 "The Dutch Indian Company"
+ DIC_NET_autdem_ADJ:0 "Dutch Indian"
+ ###############################################
+ MYS_republicanism:0 "Republic of Mysore"
+ MYS_republicanism_DEF:0 "The Constitutional Republic of Mysore"
+ MYS_republicanism_ADJ:0 "Mysorean"
+ ###############################################
+ TRV_godwinist:0 "People's Republic of Travancore"
+ TRV_godwinist_DEF:0 "The People's Congressional Republic of Travancore"
+ TRV_godwinist_ADJ:0 "Keralan"
+ ###############################################
+ SHN_absolute:0 "Shan Confederacy"
+ SHN_absolute_DEF:0 "Confederacy of Shan States"
+ SHN_absolute_ADJ:0 "Shan"
+ ###############################################
+ PEG_absolute:0 "Konbaung Dynasty"
+ PEG_absolute_DEF:0 "The Konbaung Dynasty"
+ PEG_absolute_ADJ:0 "Konbaung"
  ###############################################
  RUS_godwinist:0 "Russia"
  RUS_godwinist_DEF:0 "Russia"

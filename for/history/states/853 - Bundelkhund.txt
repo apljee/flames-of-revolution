@@ -10,7 +10,9 @@ state={
 
 		}
 		add_core_of = BNK
-
+		victory_points = {
+			4045 5
+		}
 	}
 	
 	provinces={
