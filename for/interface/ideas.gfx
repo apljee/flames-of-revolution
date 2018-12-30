@@ -5,7 +5,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_napoleon_vi.dds"
 	}
 
-######################
+	######################
 
 	SpriteType = {
 		name = "GFX_idea_traits_strip"
@@ -3635,6 +3635,7 @@ spriteTypes = {
 		name = "GFX_idea_ROM_iuliu_maniu"
 		texturefile = "gfx/interface/ideas/idea_generic_democratic_europe.dds"
 	}
+	
 }
 
 

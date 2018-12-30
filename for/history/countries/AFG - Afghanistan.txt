@@ -8,7 +8,11 @@ set_technology = {
 	basic_light_tank = 1
 }
 
-
+add_ideas = {
+	AFG_noble_control_puppet
+	AFG_tribal_army_control
+	AFG_bitter_victor_afghani
+}
 set_politics = {
 
 	parties = {

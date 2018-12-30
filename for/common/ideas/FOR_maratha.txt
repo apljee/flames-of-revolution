@@ -1,0 +1,24 @@
+ideas = {
+	country = {
+		MRH_injured_tiger = {
+			
+			allowed = {
+				original_tag = "MRH"
+			}
+
+			allowed_civil_war = {
+				
+			}
+			removal_cost = -1
+
+			
+			
+			removal_cost = -1
+			
+			modifier = {
+		
+			}
+		}
+		
+	}
+}

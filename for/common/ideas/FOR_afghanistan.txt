@@ -1,0 +1,81 @@
+ideas = {
+	country = {
+		AFG_noble_control_puppet = {
+			
+			allowed = {
+				original_tag = "AFG"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
+			}
+			removal_cost = -1
+
+			
+			
+			removal_cost = -1
+			
+			modifier = {
+			conscription = -0.01	
+			political_power_gain = -0.5
+			political_advisor_cost_factor = 2
+			military_leader_cost_factor = 1
+			}
+		}
+		AFG_tribal_army_control = {
+		
+			allowed = {
+				original_tag = "AFG"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
+			}
+			removal_cost = -1
+
+			
+			
+			removal_cost = -1
+			
+			modifier = {
+			army_morale_factor = 0.2
+			army_org = -10
+			army_org_Factor = -0.1
+			training_time_factor = -0.2
+			army_attack_factor = -0.2
+			}
+		}
+		AFG_bitter_victor_afghani = {
+		
+			allowed = {
+				original_tag = "AFG"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
+			}
+			removal_cost = -1
+
+	
+			
+			removal_cost = -1
+			
+			modifier = {
+			ai_focus_aggressive_factor = 0.5
+			experience_gain_army = -0.1
+			}
+		}
+	}
+}

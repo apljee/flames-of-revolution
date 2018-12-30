@@ -1,0 +1,32 @@
+spriteTypes = {
+	
+
+	
+	
+	SpriteType = { 
+		name = "GFX_idea_AFG_noble_control_puppet"
+		texturefile = "gfx/interface/ideas/idea_afghanistan_noble_control.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AFG_tribal_army_control"
+		texturefile = "gfx/interface/ideas/idea_afghanistan_tribal_army.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AFG_bitter_victor_afghani"
+		texturefile = "gfx/interface/ideas/idea_afghanistan_bitter_sweet.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_OUD_rightful_ruler"
+		texturefile = "gfx/interface/ideas/idea_OUD_rightful_ruler.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_MRH_injured_tiger"
+		texturefile = "gfx/interface/ideas/idea_MRH_injured_tiger.dds"
+	}
+	
+
+	
+}
+
+
