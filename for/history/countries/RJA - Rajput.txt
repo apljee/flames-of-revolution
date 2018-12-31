@@ -8,7 +8,9 @@ set_technology = {
 	basic_light_tank = 1
 }
 
-
+add_ideas = {
+	RJA_Sikh_Warriors 
+}
 set_politics = {
 
 	parties = {

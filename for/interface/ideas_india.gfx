@@ -24,6 +24,25 @@ spriteTypes = {
 		name = "GFX_idea_MRH_injured_tiger"
 		texturefile = "gfx/interface/ideas/idea_MRH_injured_tiger.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_MRH_caste_system"
+		texturefile = "gfx/interface/ideas/idea_MRH_caste_system.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_HYD_caste_system_corrupt"
+		texturefile = "gfx/interface/ideas/idea_HYD_caste_system_corrupt.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_RJA_Sikh_Warriors"
+		texturefile = "gfx/interface/ideas/idea_RJA_Sikh_Warriors.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_HYD_slave_mines"
+		texturefile = "gfx/interface/ideas/idea_HYD_slave_mines.dds"
+	}
 	
 
 	

@@ -1,0 +1,29 @@
+ideas = {
+	country = {
+		RJA_Sikh_Warriors = {
+			
+			allowed = {
+				original_tag = "RJA"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
+			}
+			removal_cost = -1
+
+			
+			
+			removal_cost = -1
+			
+			modifier = {
+			conscription_factor = 0.3
+			
+			}
+		}
+		
+	}
+}

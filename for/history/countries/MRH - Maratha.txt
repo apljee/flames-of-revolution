@@ -12,6 +12,7 @@ set_stability = 0.8
 
 add_ideas = {
 	MRH_injured_tiger
+	MRH_caste_system
 }
 set_politics = {
 
