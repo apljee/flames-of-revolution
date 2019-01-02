@@ -1,0 +1,30 @@
+
+state={
+	id=855
+	name="STATE_855"
+	
+	history={
+		owner = TRV
+		add_core_to = TRV
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 4
+		}
+		victory_points = {
+			7402 5
+		}
+
+	}
+	resources={
+		steel=5 # was: 44
+		chromium=10
+		
+	}
+	provinces={
+		1238 1321 7288 7402 10130
+	}
+	manpower=6321689
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=853
+	name="STATE_853"
+	
+	history={
+		owner = SHN
+		
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+		
+	}
+	resources={
+		
+	}
+	provinces={
+		1170 1566 2061 4175 4210 7400 7562 7603 7909 7974 12363
+	}
+	manpower=121689
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
