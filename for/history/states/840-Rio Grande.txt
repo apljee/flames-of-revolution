@@ -1,0 +1,21 @@
+state={
+	id=840
+	name="STATE_840"
+	
+	history={
+		owner = RIO
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = RIO
+
+	}
+	
+	provinces={
+		2060 2104 5015 10769 12811 
+	}
+	manpower=331293
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

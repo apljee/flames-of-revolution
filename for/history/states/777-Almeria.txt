@@ -6,8 +6,8 @@ state={
 		747 950 1090 1176 1192 4065 4095 7196 10063 10111 11956 12038 12083 
 	}
 	history={
-		owner = ARA
-		add_core_of = ARA
+		owner = SPR
+		add_core_of = SPR
 		buildings = {
 			industrial_complex = 3
 			arms_factory = 2

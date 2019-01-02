@@ -86,37 +86,9 @@ HUN = {
 	color = rgb { 202 109 88 }
 	color_ui = rgb { 153 73 55 }
 }
-SLO = {
-	color = rgb { 198 185 169 }
-	color_ui = rgb { 155 147 138 }
-}
 POL = {
 	color = rgb { 208 89 105 }
 	color_ui = rgb { 173 64 78 }
-}
-MOR = {
-	color = rgb { 191 110 62 }
-	color_ui = rgb { 155 85 43 }
-}
-FNA = {
-	color = rgb { 13 57 137 }
-	color_ui = rgb { 13 57 137 }
-}
-FWA = {
-	color = rgb { 13 57 137 }
-	color_ui = rgb { 13 57 137 }
-}
-FCA = {
-	color = rgb { 13 57 137 }
-	color_ui = rgb { 13 57 137 }
-}
-EGY = {
-	color = rgb { 250 205 138 }
-	color_ui = rgb { 224 183 125 }
-}
-ETH = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 122 107 153 }
 }
 QIN = {
 	color = rgb { 193 173 64 }
@@ -125,14 +97,6 @@ QIN = {
 JAP = {
 	color = rgb { 252 201 185 }
 	color_ui = rgb { 229 178 162 }
-}
-SAF = {
-	color = rgb { 231 140 50 }
-	color_ui = rgb { 211 124 38 }
-}
-GAF = {
-	color = rgb { 65 65 66 }
-	color_ui = rgb { 58 58 58 }
 }
 LIT = {
 	color = rgb { 214 222 128 }

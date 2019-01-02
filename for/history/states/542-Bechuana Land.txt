@@ -11,11 +11,11 @@ state={
 	}
 
 	history={
-		owner = BRI
+		owner = 
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = BRI
+		add_core_of = 
 
 	}
 
