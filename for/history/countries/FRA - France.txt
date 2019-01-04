@@ -71,7 +71,6 @@ add_to_faction = FWA
 add_to_faction = SAR
 add_to_faction = SPR
 add_to_faction = MEX
-add_to_faction = FIC
 
 set_convoys = 168
 
@@ -100,17 +99,11 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
 	}
-	set_autonomy = {
-		target = FIC
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
 	else = {
 		puppet = QBC
 		puppet = FNA
 		puppet = FWA
 		puppet = FCA
-		puppet = FIC
 	}
 }
 

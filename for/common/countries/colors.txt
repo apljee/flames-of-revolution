@@ -58,10 +58,6 @@ DEN = {
 	color = rgb { 130 96 96 }
 	color_ui = rgb { 112 84 84 }
 }
-NOR = {
-	color = rgb { 146 65 99 }
-	color_ui = rgb { 112 50 77 }
-}
 BRI = {
 	color = rgb { 160 6 27 }
 	color_ui = rgb { 122 3 19 }

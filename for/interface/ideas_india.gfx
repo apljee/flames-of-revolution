@@ -43,22 +43,6 @@ spriteTypes = {
 		name = "GFX_idea_HYD_slave_mines"
 		texturefile = "gfx/interface/ideas/idea_HYD_slave_mines.dds"
 	}
-	spriteType = {
-		name = "GFX_idea_HYD_oppressed_hindus"
-		texturefile = "gfx/interface/ideas/idea_HYD_oppressed_hindus.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_pune_treaty"
-		texturefile = "gfx/interface/ideas/idea_FIC_Pune_treaty.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_pune_treaty_broken"
-		texturefile = "gfx/interface/ideas/idea_FIC_Pune_treaty_violated.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_TRV_revolution_ignited"
-		texturefile = "gfx/interface/ideas/idea_TRV_revolution_ignited.dds"
-	}
 	
 
 	
