@@ -11,9 +11,6 @@ set_war_support = 0.1
 set_stability = 0.8
 
 set_cosmetic_tag = FIC_FRA
-add_ideas = {
-	pune_treaty_broken
-}
 set_politics = {
 
 	parties = {
