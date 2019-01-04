@@ -1,67 +1,49 @@
 ideas = {
 	country = {
-		
-		HYD_caste_system_corrupt = {
+		pune_treaty = {
 			
 			allowed = {
-			
 				always = yes
-				
 			}
 
 			allowed_civil_war = {
-				
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
 			}
 			removal_cost = -1
-
 			
+			picture = pune_treaty
 			
 			removal_cost = -1
 			
 			modifier = {
-		
+			
 			}
 		}
-		HYD_slave_mines = {
+		pune_treaty_broken = {
 			
 			allowed = {
-			
 				always = yes
-				
 			}
 
 			allowed_civil_war = {
-				
+				NOT = {
+					has_government = godwinist
+					has_government = jacobinist
+					has_government = revpop
+				}
 			}
 			removal_cost = -1
-
 			
+			picture = pune_treaty_broken
 			
 			removal_cost = -1
 			
 			modifier = {
-		
-			}
-		}
-		HYD_oppressed_hindus = {
 			
-			allowed = {
-			
-				always = yes
-				
-			}
-
-			allowed_civil_war = {
-				
-			}
-			removal_cost = -1
-
-			
-			
-			removal_cost = -1
-			
-			modifier = {
-		
 			}
 		}
 		
