@@ -14,6 +14,32 @@ add_ideas = {
 	MRH_injured_tiger
 	MRH_caste_system
 }
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = BIH
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+	set_autonomy = {
+		target = BNK
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.3
+	}
+	set_autonomy = {
+		target = DLH
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.3
+	}
+	else = {
+		puppet = DLH
+		puppet = BNK
+		puppet = BIH
+		
+	}
+}
 set_politics = {
 
 	parties = {
