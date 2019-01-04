@@ -1,4 +1,4 @@
-﻿capital = 852
+﻿capital = 856
 
 oob = "BIH_1936"
 

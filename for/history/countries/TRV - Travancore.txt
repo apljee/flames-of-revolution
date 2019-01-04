@@ -1,4 +1,4 @@
-﻿capital = 855
+﻿capital = 858
 
 oob = "TRV_1936"
 
@@ -10,7 +10,9 @@ set_technology = {
 set_war_support = 0.1
 set_stability = 0.8
 
-
+add_ideas = {
+TRV_revolution_ignited 
+}
 set_politics = {
 
 	parties = {
