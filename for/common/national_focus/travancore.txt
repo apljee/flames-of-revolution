@@ -1,0 +1,399 @@
+focus_tree = {
+	id = FOR_TRV_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = TRV
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 50 y = 1100 }
+
+	focus = {
+		id = TRV_revolution_begins
+		icon = GFX_focus_generic_join_comintern
+		x = 8
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = 120
+		}
+	}
+	focus = {
+		id = TRV_reform_the_castes
+		icon = GFX_goal_caste_system_reform
+		prerequisite = { focus = TRV_revolution_begins }
+		x = 8
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_subvert_the_system
+		icon = GFX_goal_caste_system_subvert
+		prerequisite = { focus = TRV_reform_the_castes }
+		mutually_exclusive = { focus = TRV_abolish_the_system }
+		x = 6
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_abolish_the_system
+		icon = GFX_goal_caste_system_abolished
+		prerequisite = { focus = TRV_reform_the_castes }
+		x = 10
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_communism_hindu
+		icon = GFX_goal_communism_hindu
+		prerequisite = { focus = TRV_subvert_the_system }
+		x = 6
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_force_atheism
+		icon = GFX_goal_forced_atheism
+		prerequisite = { focus = TRV_abolish_the_system}
+		x = 10
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_islam_question
+		icon = GFX_goal_communist_islam
+		prerequisite = { focus = TRV_communism_hindu 
+						 focus = TRV_force_atheism }
+		x = 8
+		y = 6
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}	
+	focus = {
+		id = TRV_untouchables
+		icon = GFX_goal_untouchables
+		prerequisite = { focus = TRV_subvert_the_system
+						 focus = TRV_abolish_the_system }
+		x = 8
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}	
+	
+	focus = {
+		id = TRV_role_of_women
+		icon = GFX_goal_women_reform
+		prerequisite = { focus = TRV_revolution_begins }
+		x = 13
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_mothers_sons
+		icon = GFX_goal_mothers_sons
+		prerequisite = { focus = TRV_role_of_women }
+		x = 12
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_mothers_like_son
+		icon = GFX_goal_mothers_like_sons
+		prerequisite = { focus = TRV_role_of_women }
+		x = 14
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_address_child_mortality
+		icon = GFX_goal_child_mortality
+		prerequisite = { focus = TRV_mothers_sons }
+		x = 12
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_female_factories
+		icon = GFX_goal_female_factories
+		prerequisite = { focus = TRV_mothers_like_son }
+		x = 14
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_legacy_of_nangeli
+		icon = GFX_goal_legacy_of_nangeli
+		prerequisite = { focus = TRV_female_factories}
+		prerequisite = { focus = TRV_address_child_mortality}
+		x = 13
+		y = 6
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	
+	focus = {
+		id = TRV_societal_question
+		icon = GFX_goal_generic_neutrality_focus
+		prerequisite = { focus = TRV_revolution_begins }
+		x = 3
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_education_reform
+		icon = GFX_goal_generic_scientific_exchange
+		prerequisite = { focus = TRV_societal_question }
+		x = 2
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_language_reform
+		icon = GFX_goal_language_reform
+		prerequisite = { focus = TRV_societal_question }
+		x = 3
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_agricultural_reform
+		icon = GFX_goal_agriculture
+		prerequisite = { focus = TRV_societal_question }
+		x = 4
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_agricultural_society
+		icon = GFX_goal_agricultural_society
+		prerequisite = { focus = TRV_agricultural_reform }
+		x = 4
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_city_society
+		icon = GFX_goal_city_society
+		prerequisite = { focus = TRV_education_reform }
+		mutually_exclusive = { focus = TRV_agricultural_society }
+		x = 2
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_nationalisation
+		icon = GFX_goal_nationalisation
+		prerequisite = { focus = TRV_city_society
+					     focus = TRV_agricultural_society }
+		
+		x = 3
+		y = 6
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_propaganda
+		icon = GFX_goal_communist_propaganda
+		prerequisite = { focus = TRV_societal_question }
+		
+		x = 0
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}

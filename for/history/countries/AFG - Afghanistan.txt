@@ -9,9 +9,10 @@ set_technology = {
 }
 
 add_ideas = {
+	AFG_bitter_victor_afghani
 	AFG_noble_control_puppet
 	AFG_tribal_army_control
-	AFG_bitter_victor_afghani
+	
 }
 set_politics = {
 

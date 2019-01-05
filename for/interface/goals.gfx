@@ -31,7 +31,91 @@ spriteTypes = {
 		name = "GFX_ITA_focus_avanti_italia"
 		texturefile = "gfx/interface/goals/ITA_focus_avanti_italia.dds"
 	}
-		
+	
+	#### Travancore
+	SpriteType = {
+		name = "GFX_goal_caste_system_reform"
+		texturefile = "gfx/interface/goals/TRV_caste_system_reform.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_caste_system_subvert"
+		texturefile = "gfx/interface/goals/TRV_caste_system_subvert.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_caste_system_abolished"
+		texturefile = "gfx/interface/goals/TRV_caste_system_abolished.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_untouchables"
+		texturefile = "gfx/interface/goals/TRV_untouchables.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_communism_hindu"
+		texturefile = "gfx/interface/goals/TRV_communism_hindu.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_communist_islam"
+		texturefile = "gfx/interface/goals/goal_communism_islam.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_forced_atheism"
+		texturefile = "gfx/interface/goals/TRV_forced_atheism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_female_factories"
+		texturefile = "gfx/interface/goals/TRV_female_factories.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_child_mortality"
+		texturefile = "gfx/interface/goals/TRV_child_mortality.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_mothers_like_sons"
+		texturefile = "gfx/interface/goals/TRV_mothers_like_sons.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_mothers_sons"
+		texturefile = "gfx/interface/goals/TRV_mothers_sons.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_legacy_of_nangeli"
+		texturefile = "gfx/interface/goals/TRV_legacy_of_nangeli.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_women_reform"
+		texturefile = "gfx/interface/goals/goal_women_reform.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_city_society"
+		texturefile = "gfx/interface/goals/TRV_city_society.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_language_reform"
+		texturefile = "gfx/interface/goals/TRV_language_reform.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_agricultural_society"
+		texturefile = "gfx/interface/goals/TRV_agricultural_society.dds"
+	}
+	
+	
+	
+	#### FOR Generics
+	SpriteType = {
+		name = "GFX_goal_communist_propaganda"
+		texturefile = "gfx/interface/goals/goal_communist_propaganda.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_nationalisation"
+		texturefile = "gfx/interface/goals/goal_nationalisation.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_agriculture"
+		texturefile = "gfx/interface/goals/goal_agriculture.dds"
+	}
+	
 	#### Generic continuous goal icons
 
 	SpriteType = {
