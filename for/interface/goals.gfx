@@ -99,6 +99,39 @@ spriteTypes = {
 		name = "GFX_goal_agricultural_society"
 		texturefile = "gfx/interface/goals/TRV_agricultural_society.dds"
 	}
+	SpriteType = {
+		name = "GFX_goal_kalaripayattu"
+		texturefile = "gfx/interface/goals/TRV_kalaripayattu.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_communist_navy"
+		texturefile = "gfx/interface/goals/TRV_communist_navy.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_loot_temples"
+		texturefile = "gfx/interface/goals/TRV_loot_temples.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_open_temples"
+		texturefile = "gfx/interface/goals/TRV_open_temples.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_new_factories"
+		texturefile = "gfx/interface/goals/TRV_new_factories.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_TRV_bread_for_guns"
+		texturefile = "gfx/interface/goals/TRV_bread_for_guns.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_nair"
+		texturefile = "gfx/interface/goals/TRV_nair.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_TPE"
+		texturefile = "gfx/interface/goals/TRV_TPE.dds"
+	}
 	
 	
 	

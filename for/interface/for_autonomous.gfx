@@ -1,0 +1,12 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_autonomy_for_maratha_baphar_icon"
+		textureFile = "gfx/interface/autonomy/autonomy_for_maratha_baphar.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_for_maratha_sahayogee_icon"
+		textureFile = "gfx/interface/autonomy/autonomy_for_maratha_sahayogee.dds"
+	}
+	
+}

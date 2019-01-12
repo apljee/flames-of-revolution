@@ -225,6 +225,7 @@ focus_tree = {
 		id = TRV_female_factories
 		icon = GFX_goal_female_factories
 		prerequisite = { focus = TRV_mothers_like_son }
+		prerequisite = { focus = TRV_two_year_plan }
 		x = 14
 		y = 5
 		cost = 2
@@ -386,6 +387,223 @@ focus_tree = {
 		
 		x = 0
 		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	################ INDUSTRY
+	focus = {
+		id = TRV_rebuild_industry
+		icon = GFX_goal_generic_soviet_construction
+		
+		
+		x = 18
+		y = 1
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_open_the_temples
+		icon = GFX_goal_open_temples
+		prerequisite = { focus = TRV_rebuild_industry }
+	
+		x = 20
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_loot_the_temples
+		icon = GFX_goal_loot_temples
+		prerequisite = { focus = TRV_rebuild_industry }
+		mutually_exclusive = { focus = TRV_open_the_temples }
+	
+		x = 16
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_two_year_plan
+		icon = GFX_goal_generic_soviet_construction
+		prerequisite = { focus = TRV_open_the_temples
+						 focus = TRV_loot_the_temples}
+		
+	
+		x = 18
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_found_the_kalaripayattu
+		icon = GFX_goal_kalaripayattu
+		prerequisite = { focus = TRV_two_year_plan}
+		
+	
+		x = 16
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_reopen_the_admiralty
+		icon = GFX_goal_communist_navy
+		prerequisite = { focus = TRV_two_year_plan}
+		
+	
+		x = 20
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_bread_for_guns
+		icon = GFX_TRV_bread_for_guns
+		prerequisite = { focus = TRV_two_year_plan}
+		
+	
+		x = 18
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_new_breed_of_factory
+		icon = GFX_TRV_new_factories
+		prerequisite = { focus = TRV_bread_for_guns}
+		allowed = { has_completed_focus = TRV_nationalisation }
+		
+	
+		x = 18
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_establish_the_travancore_university
+		icon = GFX_focus_research
+		prerequisite = { focus = TRV_new_breed_of_factory}
+		
+		
+	
+		x = 18
+		y = 7
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_reintroduce_the_nair
+		icon = GFX_TRV_nair
+		prerequisite = { focus = TRV_new_breed_of_factory}
+		prerequisite = { focus = TRV_found_the_kalaripayattu }
+		
+		
+		
+	
+		x = 16
+		y = 6
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_control_the_skies
+		icon = GFX_TRV_TPE
+		prerequisite = { focus = TRV_new_breed_of_factory}
+		prerequisite = { focus = TRV_reopen_the_admiralty}
+		
+		
+		
+	
+		x = 20
+		y = 6
 		cost = 2
 		ai_will_do = {
 			factor = 10
