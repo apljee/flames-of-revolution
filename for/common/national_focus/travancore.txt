@@ -615,3 +615,379 @@ focus_tree = {
 			add_political_power = -40
 		}
 	}
+	focus = {
+		id = TRV_party_conference_1936
+		icon = GFX_TRV_pary_conference
+			
+		x = 28
+		y = 0
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_stick_with_govinda
+		icon = GFX_TRV_Govinda
+		prerequisite = { focus = TRV_party_conference_1936 }
+		
+		
+		
+		
+	
+		x = 25
+		y = 1
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_denounce_the_French
+		icon = GFX_TRV_french_india_smashed
+		prerequisite = { focus = TRV_stick_with_govinda}
+		
+		
+		
+		
+	
+		x = 25
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_support_the_tamil
+		icon = GFX_TRV_tamil_tigers
+		prerequisite = { focus = TRV_stick_with_govinda}
+		
+		
+		
+		
+	
+		x = 22
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_open_indian_communists
+		icon = GFX_focus_generic_join_comintern
+		prerequisite = { focus = TRV_support_the_tamil}
+		
+		
+		
+		
+	
+		x = 22
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_open_mysore_talks
+		icon = GFX_TRV_mysore
+		prerequisite = { focus = TRV_stick_with_govinda}
+		
+		
+		
+		
+	
+		x = 28
+		y = 2
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_appeal_to_the_dutch
+		icon = GFX_focus_generic_treaty
+		prerequisite = { focus = TRV_denounce_the_French}
+		
+		
+		
+		
+	
+		x = 26
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_finish_the_dutch
+		icon = GFX_TRV_dutch_strike
+		prerequisite = { focus = TRV_denounce_the_French}
+		prerequisite = { focus = TRV_support_the_tamil }
+		mutually_exclusive = { focus = TRV_appeal_to_the_dutch }
+		
+		
+		
+	
+		x = 24
+		y = 3
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_approach_maratha
+		icon = GFX_TRV_maratha_union
+		prerequisite = { focus = TRV_open_mysore_talks}
+		
+		
+		
+		
+	
+		x = 28
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_strike_the_french
+		icon = GFX_TRV_strike_french_india
+		prerequisite = { focus = TRV_finish_the_dutch
+						 focus = TRV_appeal_to_the_dutch}
+		
+		
+		
+		
+	
+		x = 25
+		y = 5
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_strike_the_portuguese
+		icon = GFX_TRV_strike_portuguese_india
+		prerequisite = { focus = TRV_finish_the_dutch
+						 focus = TRV_appeal_to_the_dutch}
+		
+		
+		
+		
+	
+		x = 26
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_reinforce_the_capital
+		icon = GFX_goal_generic_construct_military
+		prerequisite = { focus = TRV_finish_the_dutch
+						 focus = TRV_appeal_to_the_dutch}
+		
+		
+		
+		
+	
+		x = 24
+		y = 4
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_expand_the_vote
+		icon = GFX_focus_generic_soviet_politics
+		prerequisite = { focus = TRV_open_indian_communists}
+		
+		
+		
+		
+	
+		x = 24
+		y = 7
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_fund_communism_in_india
+		icon = GFX_TRV_indian_communism_funding
+		prerequisite = { focus = TRV_open_indian_communists}
+		
+		
+		
+		
+	
+		x = 22
+		y = 7
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_hyderabad_slave_revolt
+		icon = GFX_TRV_hyderabad_slaves
+		prerequisite = { focus = TRV_open_indian_communists}
+		
+		
+		
+		
+	
+		x = 26
+		y = 7
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_mysore_ending
+		icon = GFX_TRV_mysore_question
+		prerequisite = { focus = TRV_open_indian_communists}
+		
+		
+		
+		
+	
+		x = 28
+		y = 7
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}
+	focus = {
+		id = TRV_united_south_india
+		icon = GFX_TRV_united_south
+		prerequisite = { focus = TRV_fund_communism_in_india}
+		prerequisite = { focus = TRV_expand_the_vote}
+		prerequisite = { focus = TRV_hyderabad_slave_revolt}
+		prerequisite = { focus = TRV_mysore_ending}
+		
+		
+		
+		
+	
+		x = 25
+		y = 8
+		cost = 2
+		ai_will_do = {
+			factor = 10
+		}
+		
+		available_if_capitulated = yes
+		
+		completion_reward = {
+			add_political_power = -40
+		}
+	}

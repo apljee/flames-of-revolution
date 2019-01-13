@@ -132,6 +132,55 @@ spriteTypes = {
 		name = "GFX_TRV_TPE"
 		texturefile = "gfx/interface/goals/TRV_TPE.dds"
 	}
+	SpriteType = {
+		name = "GFX_TRV_Govinda"
+		texturefile = "gfx/interface/goals/TRV_Govinda.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_french_india_smashed"
+		texturefile = "gfx/interface/goals/TRV_french_india_smashed.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_tamil_tigers"
+		texturefile = "gfx/interface/goals/TRV_tamil_tigers.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_mysore"
+		texturefile = "gfx/interface/goals/TRV_mysore.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_maratha_union"
+		texturefile = "gfx/interface/goals/TRV_maratha_union.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_dutch_strike"
+		texturefile = "gfx/interface/goals/TRV_dutch_strike.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_strike_french_india"
+		texturefile = "gfx/interface/goals/TRV_strike_french_india.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_TRV_strike_portuguese_india"
+		texturefile = "gfx/interface/goals/TRV_strike_portuguese_india.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_indian_communism_funding"
+		texturefile = "gfx/interface/goals/TRV_indian_communism_funding.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_hyderabad_slaves"
+		texturefile = "gfx/interface/goals/TRV_hyderabad_slaves.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_mysore_question"
+		texturefile = "gfx/interface/goals/TRV_mysore_question.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRV_united_south"
+		texturefile = "gfx/interface/goals/TRV_united_south.dds"
+	}
 	
 	
 	
