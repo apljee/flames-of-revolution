@@ -254,3 +254,7 @@ PEG = {
 	color = rgb {223 229 207}
 	color_ui = rgb {223 229 207}
 }
+SIA = {
+	color = rgb {109 134 152}
+	color_ui = rgb {109 134 152}
+}

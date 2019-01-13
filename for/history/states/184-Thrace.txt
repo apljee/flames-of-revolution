@@ -11,11 +11,11 @@ state={
 	}
 
 	history={
-		owner = GRE
+		owner = OTT
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = GRE
+		add_core_of = OTT
 	}
 
 	provinces={

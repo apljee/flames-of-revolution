@@ -1332,3 +1332,7 @@
  MOS_reformationist:0 "Moscow"
  MOS_reformationist_DEF:0 "Moscow"
  #############################################
+ SIA_autdem:0 "Siam"
+ SIA_autdem_DEF:0 "Siam"
+ SIA_autdem_ADJ:0 "Siamese"
+ ###############################################

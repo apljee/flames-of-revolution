@@ -1,19 +1,21 @@
+
 state={
 	id=789
 	name="STATE_789"
-	
+
 	history={
-		owner = GRE
+		owner = OTT
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
+
 		}
-		add_core_of = GRE
+		add_core_of = OTT
 
 	}
-	
+
 	provinces={
-		936 3526 9837 10163 
+		936 974 9837 10163 11856 
 	}
 	manpower=893456
 	buildings_max_level_factor=1.000

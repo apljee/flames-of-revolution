@@ -4,7 +4,7 @@ state={
 	name="STATE_788"
 
 	history={
-		owner = ALB
+		owner = OTT
 		victory_points = {
 			9914 5 
 		}
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		914 3448 3884 6900 11767 
+		914 3448 3884 6900 9875 11767 
 	}
 	manpower=1098345
 	buildings_max_level_factor=1.000
