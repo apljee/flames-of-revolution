@@ -1,0 +1,38 @@
+political_actions = {
+
+	hold_monarchy_referendum = {
+
+		icon = generic_political_discourse
+
+		allowed = {
+			tag = TRV
+		}
+
+		available = {
+			OR = { has_government = godwinist
+				   has_government = radical_socialist
+				   has_government = radpop
+				 }
+			has_country_leader = { ruling_only = yes name = "C.K Govindan Nair" }
+			has_war = no
+		}
+
+		cost = 50
+
+		fire_only_once = yes
+
+		visible = {
+			tag = TRV
+			has_government = godwinist
+			
+		}
+
+		complete_effect = {
+			set_country_flag = TRV_monarchist_referendum
+		}
+
+		ai_will_do = {
+			factor = 50
+		}
+	}
+}

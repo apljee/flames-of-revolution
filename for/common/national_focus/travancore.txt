@@ -618,48 +618,46 @@ focus_tree = {
 	focus = {
 		id = TRV_party_conference_1936
 		icon = GFX_TRV_pary_conference
-			
+		available = { always = no }
+		bypass = { has_country_flag = TRV_party_conference_begin }	
 		x = 28
 		y = 0
 		cost = 2
-		ai_will_do = {
-			factor = 10
-		}
+				
 		
-		available_if_capitulated = yes
 		
 		completion_reward = {
-			add_political_power = -40
+			custom_effect_tooltip = TRV_party_conference
 		}
 	}
 	focus = {
 		id = TRV_stick_with_govinda
 		icon = GFX_TRV_Govinda
 		prerequisite = { focus = TRV_party_conference_1936 }
-		
-		
-		
+		bypass = { has_country_flag = TRV_party_conference_succeeds }
 		
 	
 		x = 25
 		y = 1
 		cost = 2
-		ai_will_do = {
-			factor = 10
-		}
 		
-		available_if_capitulated = yes
 		
 		completion_reward = {
-			add_political_power = -40
+			
+			custom_effect_tooltip = TRV_govindan_loyalist
+		
 		}
 	}
 	focus = {
 		id = TRV_denounce_the_French
 		icon = GFX_TRV_french_india_smashed
 		prerequisite = { focus = TRV_stick_with_govinda}
-		
-		
+		bypass = {
+				NOT = { 847 = { is_owned_by = FIC } }
+		}
+		available = {
+			847 = { is_owned_by = FIC }
+		}
 		
 		
 	
@@ -670,10 +668,10 @@ focus_tree = {
 			factor = 10
 		}
 		
-		available_if_capitulated = yes
+		cancel_if_invalid = no
 		
 		completion_reward = {
-			add_political_power = -40
+			FIC = 
 		}
 	}
 	focus = {
