@@ -258,3 +258,7 @@ SIA = {
 	color = rgb {109 134 152}
 	color_ui = rgb {109 134 152}
 }
+FCH = {
+	color = rgb {55 77 134}
+	color_ui = rgb {55 77 134}
+}

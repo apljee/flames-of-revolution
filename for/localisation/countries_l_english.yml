@@ -1336,3 +1336,7 @@
  SIA_autdem_DEF:0 "Siam"
  SIA_autdem_ADJ:0 "Siamese"
  ###############################################
+ FCH_autdem:0 "Fédération Indochinoise"
+ SIA_autdem_DEF:0 "la Fédération Indochinoise"
+ SIA_autdem_ADJ:0 "Indochinois"
+ ###############################################

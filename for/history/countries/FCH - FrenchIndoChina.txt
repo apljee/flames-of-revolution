@@ -1,0 +1,75 @@
+﻿capital = 336
+
+oob = "FIC_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+}
+
+set_cosmetic_tag = FCH_FRA
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 15
+		}
+
+		revpop = {
+			popularity = 0
+		}
+		
+		jacobinist = {
+			popularity = 0
+		}
+		
+		republicanism = { 
+			popularity = 0
+		}
+		
+		liberalism = { 
+			popularity = 0
+		}
+
+		parliamentarian = {
+			popularity = 0
+		}
+		
+		toryism = {
+			popularity = 0
+		}
+		
+		autdem = { 
+			popularity = 70
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
+		reactionism = { 
+			popularity = 0
+		}
+		
+		reformationism = { 
+			popularity = 15
+		}
+	}
+	
+	ruling_party = autdem
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = ""
+	desc = "POLITICS_Louis_Bonvin_DESC"
+	picture = ".dds"
+	expire = "1946.2.23"
+	ideology = autdem
+	traits = {
+		#
+	}
+}
