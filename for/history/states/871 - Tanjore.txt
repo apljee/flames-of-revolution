@@ -1,0 +1,28 @@
+state={
+	id=871
+	name="STATE_871"
+	
+	history={
+		owner = DIC
+		
+		
+		buildings = {
+			infrastructure = 3
+		
+			
+		}
+		
+
+	}
+	resources={
+		
+		
+		
+	}
+	provinces={
+		13305 1381 13304 4416 13302
+	}
+	manpower= 752834
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

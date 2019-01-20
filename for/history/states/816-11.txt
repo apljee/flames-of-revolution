@@ -1,9 +1,22 @@
 state={
 	id=816
 	name="STATE_816"
+	history={
+		owner = KHI
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = KHI
+		
+	}
+	resources={
+		steel= 15 # was: 20
+	}
 	provinces={
 		4563 10406 
 	}
-	manpower=0
+	manpower=200160
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

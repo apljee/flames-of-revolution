@@ -1,0 +1,79 @@
+﻿capital = 855
+
+oob = "TRV_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+}
+set_war_support = 0.1
+set_stability = 0.8
+add_ideas = {
+TRV_revolution_ignited 
+}
+
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 30
+		}
+
+		revpop = {
+			popularity = 0
+		}
+		
+		jacobinist = {
+			popularity = 0
+		}
+		
+		republicanism = { 
+			popularity = 20
+		}
+		
+		liberalism = { 
+			popularity = 0
+		}
+
+		parliamentarian = {
+			popularity = 0
+		}
+		
+		toryism = {
+			popularity = 0
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absolute = {
+			popularity = 20
+		}
+		
+		reactionism = { 
+			popularity = 30
+		}
+		
+		reformationism = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = godwinist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Savumiamoorthy Thondaman"
+	desc = "POLITICS_Thondaman_DESC"
+	picture = "GFX_portrait_EEL_Thondaman.dds"
+	expire = "1999.30.10"
+	ideology = godwinist
+	traits = {
+		#
+	}
+}

@@ -2,7 +2,7 @@
 state={
 	id=423
 	name="STATE_423" # Madurai
-	manpower = 19147500
+	manpower = 10147500
 	
 	state_category = rural
 	
@@ -27,6 +27,6 @@ state={
 	}
 
 	provinces={
-		1381 1409 4327 4416 7265 7363 10246 10274 12164 12247 
-	}
+		1409 4327 7265 13301
+		}
 }

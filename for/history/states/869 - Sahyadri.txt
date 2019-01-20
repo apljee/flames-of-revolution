@@ -1,0 +1,27 @@
+state={
+	id=869
+	name="STATE_869"
+	
+	history={
+		owner = DIC
+		
+		add_core_of = KZH
+		buildings = {
+			infrastructure = 1
+			
+		}
+		
+
+	}
+	resources={
+		
+		
+		
+	}
+	provinces={
+		10130 13294 10274 7363 12247 13303
+	}
+	manpower= 652834
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

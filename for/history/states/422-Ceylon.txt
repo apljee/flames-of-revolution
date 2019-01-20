@@ -12,16 +12,11 @@ state=
 
 	history={
 		owner = DIC
-		victory_points = {
-			10229 3 
-		}
+		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 3
-			10201 = {
-				naval_base = 5
-			}
 			7260 = {
 				naval_base = 3
 				coastal_bunker = 3
@@ -31,6 +26,6 @@ state=
 	}
 	
 	provinces={
-		1213 4219 7260 7344 10201 10229 10287 12258 
+		1213 4219 7260 10287  13289 13290 13291
 	}
 }

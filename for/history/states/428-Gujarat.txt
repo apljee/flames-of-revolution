@@ -12,7 +12,7 @@ state={
 
 	history={
 		owner = GUJ
-		add_core_to = GUJ
+		add_core_of = GUJ
 		victory_points = {
 			9975 1 
 		}

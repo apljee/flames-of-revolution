@@ -258,3 +258,23 @@ SIA = {
 	color = rgb {109 134 152}
 	color_ui = rgb {109 134 152}
 }
+EEL = { 
+	color = rgb { 174 109 32}
+	color_ui = rgb {174 109 32}
+}
+KOK = {
+	color = rgb { 166 11 7}
+	color_ui = rgb {166 11 7}
+}
+ZHY = {
+	color = rgb { 7 93 166 }
+	color_ui = rgb {7 93 166}
+}
+BUK = { 
+	color = rgb {145 195 81}
+	color_ui = rgb {145 195 81}
+]
+KHI = {
+	color = rgb {6 106 18}
+	color_ui = rgb {6 106 18}
+}

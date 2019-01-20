@@ -1336,3 +1336,25 @@
  SIA_autdem_DEF:0 "Siam"
  SIA_autdem_ADJ:0 "Siamese"
  ###############################################
+ EEL_godwinist:0 "Tamil People's Republic"
+ EEL_godwinist_ADJ:0 "Tamil"
+ EEL_godwinist_DEF:0 "The Tamil People's Republic of Eelam"
+ EEL_republicanism:0 "Tamil Eelam"
+ EEL_republicanism_ADJ:0 "Tamil"
+ EEL_republicanism_DEF:0 "The Republic of Tamil Eelam"
+ ###############################################
+ KOK_absolute:0 "Khanate of Kokand"
+ KOK_absolute_ADJ:0 "Kokand"
+ KOK_absolute_DEF:0 "The Khanate of Kokand"
+ ###############################################
+ ZHY_revpop:0 "Radical Republic of Zhetsyu"
+ ZHY_revpop_ADJ:0 "Zhetsyu"
+ ZHY_revpop_DEF:0 "The Radical People's Republic of the Zhetsyu Kazakhs"
+ ###############################################
+ BUK_absolute:0 "Khanate of Bukhara"
+ BUK_absolute_ADJ:0 "Bukharan"
+ BUK_absolute_DEF:0 "The Khanate of Bukhara"
+ ###############################################
+ KHI_reactionism:0 "Khivan State"
+ KHI_reactionism_ADJ:0 "Khivan"
+ KHI_reactionism_DEF:0 "The Khivan State"

@@ -5,7 +5,7 @@ state={
 	
 	history={
 		owner = TRV
-		add_core_to = TRV
+		add_core_of = TRV
 		buildings = {
 			infrastructure = 5
 			arms_factory = 3
@@ -22,7 +22,7 @@ state={
 		
 	}
 	provinces={
-		1238 1321 7288 7402 10130
+		1321 7288 7402 13293 13295
 	}
 	manpower=16321689
 	buildings_max_level_factor=1.000

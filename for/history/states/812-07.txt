@@ -1,9 +1,20 @@
 state={
 	id=812
 	name="STATE_812"
+	history={
+		owner = AFG
+		
+		add_core_of = BUK
+		buildings = {
+			infrastructure = 1
+			
+		}
+		
+
+	}
 	provinces={
 		7224 12218 12250 
 	}
-	manpower=0
+	manpower=1308740
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,28 @@
+state={
+	id=872
+	name="STATE_872"
+	
+	history={
+		owner = FIC
+		
+		
+		buildings = {
+			infrastructure = 3
+		
+			
+		}
+		
+
+	}
+	resources={
+		
+		
+		
+	}
+	provinces={
+		10246 12164
+	}
+	manpower= 352834
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

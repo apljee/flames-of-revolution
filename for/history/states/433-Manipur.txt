@@ -13,7 +13,7 @@ state={
 
 	history={
 		owner = MRH
-		add_core_to = MRH
+		add_core_of = MRH
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
