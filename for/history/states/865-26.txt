@@ -1,12 +1,6 @@
 state={
 	id=865
 	name="STATE_865"
-	
-	history={
-		owner = FCH
-		add_core_of = FCH
-		}
-		
 	provinces={
 		1279 4297 4371 7236 10156 12131 12286 
 	}
