@@ -67,11 +67,11 @@ add_to_faction = FRA
 add_to_faction = QBC
 add_to_faction = FNA
 add_to_faction = FCA
-add_to_faction = FWA
 add_to_faction = SAR
 add_to_faction = SPR
 add_to_faction = MEX
 add_to_faction = FIC
+add_to_faction = FCH
 set_convoys = 168
 
 #DIPLOMACY
@@ -82,15 +82,10 @@ if = {
 	set_autonomy = {
 		target = QBC
 		autonomous_state = autonomy_dominion
-		freedom_level = 0.5
-	}
-	set_autonomy = {
-		target = FNA
-		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
 	}
 	set_autonomy = {
-		target = FWA
+		target = FNA
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
 	}
@@ -104,12 +99,15 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
 	}
+	set_autonomy = {
+		target = FCH
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.3
+	}
 	else = {
 		puppet = QBC
-		puppet = FNA
-		puppet = FWA
-		puppet = FCA
 		puppet = FIC
+		puppet = FCH
 	}
 }
 
@@ -272,19 +270,19 @@ FCA = {
 		elections_allowed = no
 	}
 }
-FWA = {
+FCA = {
 	set_politics = {
 		parties = {
 			godwinist = { 
-				popularity = 5
+				popularity = 15
 			}
 		
 			revpop = {
-				popularity = 5
+				popularity = 0
 			}
 		
 			jacobinist = {
-				popularity = 5
+				popularity = 0
 			}
 		
 			republicanism = { 
@@ -312,11 +310,11 @@ FWA = {
 			}
 		
 			reactionism = { 
-				popularity = 10
+				popularity = 0
 			}
 		
 			reformationism = { 
-				popularity = 5
+				popularity = 15
 			}
 		}	
 		ruling_party = autdem
