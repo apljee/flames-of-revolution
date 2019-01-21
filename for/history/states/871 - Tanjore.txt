@@ -4,7 +4,7 @@ state={
 	
 	history={
 		owner = DIC
-		
+		add_core_of = TNJ
 		
 		buildings = {
 			infrastructure = 3

@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = DIC
+		add_core_of = MDU
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

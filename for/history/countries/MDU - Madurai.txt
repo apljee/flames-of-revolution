@@ -1,0 +1,77 @@
+﻿capital = 423
+
+oob = "MDU_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+}
+set_war_support = 0.1
+set_stability = 0.8
+
+
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 60
+		}
+
+		revpop = {
+			popularity = 0
+		}
+		
+		jacobinist = {
+			popularity = 0
+		}
+		
+		republicanism = { 
+			popularity = 0
+		}
+		
+		liberalism = { 
+			popularity = 0
+		}
+
+		parliamentarian = {
+			popularity = 0
+		}
+		
+		toryism = {
+			popularity = 0
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absolute = {
+			popularity = 40
+		}
+		
+		reactionism = { 
+			popularity = 0
+		}
+		
+		reformationism = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = godwinist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Panchapakesan Ramamurthi"
+	desc = "POLITICS_Ramamurthi_DESC"
+	picture = "GFX_portrait_MDU_Ramamurthi.dds"
+	expire = "1987.12.15"
+	ideology = godwinist
+	traits = {
+		#
+	}
+}

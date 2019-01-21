@@ -1,0 +1,2 @@
+MDU = "countries/Madurai.txt"
+TNJ = "countries/Tanjore.txt"

@@ -1367,5 +1367,9 @@
  FCH_autdem_DEF:0 "Fédération Indochinoise"
  FCH_autdem_ADJ:0 "French"
  ###############################################
+ MDU_absolute:0 "Kingdom of Madurai"
+ MDU_godwinist:0 "People's Republic of Madurai"
+ MDU_godwinist_DEF:0 "The People's Republic of Madurai"
+ MDU_godwinist_ADJ:0 "Madurai"
  
  
