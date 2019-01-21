@@ -68,3 +68,4 @@ ZHY = "countries/Zhetysu.txt"
 BUK = "countries/Bukhara.txt"
 KHI = "countries/Khiva.txt"
 PER = "countries/Persia.txt"
+FCH = "countries/FrenchIndoChina

@@ -1362,4 +1362,10 @@
  PER_absolute:0 "Sublime State of Persia"
  PER_absolute_ADJ:0 "Persian"
  PER_absolute_DEF:0 "The Sublime State of Persia"
+ ###############################################
+ FCH_autdem:0 "Fédération Indochinoise"
+ FCH_autdem_DEF:0 "Fédération Indochinoise"
+ FCH_autdem_ADJ:0 "French"
+ ###############################################
+ 
  

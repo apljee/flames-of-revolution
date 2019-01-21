@@ -258,6 +258,10 @@ SIA = {
 	color = rgb {109 134 152}
 	color_ui = rgb {109 134 152}
 }
+FCH = {
+	color = rgb {55 77 134}
+	color_ui = rgb {55 77 134}
+}
 EEL = { 
 	color = rgb { 174 109 32}
 	color_ui = rgb {174 109 32}
@@ -282,3 +286,4 @@ KHI = {
 	color = rgb {6 106 18}
 	color_ui = rgb {6 106 18}
 }
+
