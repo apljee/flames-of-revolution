@@ -270,6 +270,10 @@ ZHY = {
 	color = rgb { 7 93 166 }
 	color_ui = rgb {7 93 166}
 }
+PER = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
+}
 BUK = { 
 	color = rgb {145 195 81}
 	color_ui = rgb {145 195 81}

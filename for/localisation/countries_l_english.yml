@@ -1358,3 +1358,8 @@
  KHI_reactionism:0 "Khivan State"
  KHI_reactionism_ADJ:0 "Khivan"
  KHI_reactionism_DEF:0 "The Khivan State"
+ ###############################################
+ PER_absolute:0 "Sublime State of Persia"
+ PER_absolute_ADJ:0 "Persian"
+ PER_absolute_DEF:0 "The Sublime State of Persia"
+ 

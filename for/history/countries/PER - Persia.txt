@@ -1,11 +1,13 @@
-﻿capital = 809
+﻿capital = 266
 
-oob = "BUK_1936"
+oob = "PER_1936"
 
 set_technology = {
 	infantry_weapons = 1
-	gwtank = 1
-	basic_light_tank = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	early_fighter = 1
+	CAS1 = 1
 }
 
 
@@ -17,7 +19,7 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 30
+			popularity = 0
 		}
 		
 		jacobinist = {
@@ -29,11 +31,11 @@ set_politics = {
 		}
 		
 		liberalism = { 
-			popularity = 0
+			popularity = 40
 		}
 
 		parliamentarian = {
-			popularity = 40
+			popularity = 0
 		}
 		
 		toryism = {
@@ -45,7 +47,7 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 30
+			popularity = 60
 		}
 		
 		reactionism = { 
@@ -65,10 +67,10 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Mohammed Alim Khan"
-	desc = "POLITICS_Alim_DESC"
-	picture = "Portrait_BUK_Alim.dds"
-	expire = "1944.28.4"
+	name = "Fereydoun Mirza Qajar Khan"
+	desc = "POLITICS_Mirza_Qajar_DESC"
+	picture = "Portrait_PER_Mirza.dds"
+	expire = "1975.1.22"
 	ideology = absolute
 	traits = {
 		#
