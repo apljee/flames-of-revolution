@@ -16,31 +16,31 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 5
+			popularity = 0
 		}
 		
 		jacobinist = {
-			popularity = 11
+			popularity = 4
 		}
 		
 		republicanism = { 
-			popularity = 25
+			popularity = 35
 		}
 		
-		liberalism = { 
-			popularity = 24
+		social_liberalism = { 
+			popularity = 17
 		}
 
-		parliamentarian = {
-			popularity = 16
+		classical_liberalism = {
+			popularity = 14
 		}
 		
 		toryism = {
-			popularity = 9
+			popularity = 30
 		}
 		
 		autdem = { 
-			popularity = 5
+			popularity = 0
 		}
 		
 		absolute = {
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 5
+			popularity = 0
 		}
 		
 		reformationism = { 

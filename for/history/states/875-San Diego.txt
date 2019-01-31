@@ -1,0 +1,29 @@
+state={
+	id=875
+	name="STATE_875"
+	
+	history={
+		owner = CAL
+		buildings = {
+			industrial_complex = 4
+			arms_factory = 5
+			air_base = 4
+			dockyard = 2
+			1562 = {
+				naval_base = 10
+
+			}
+		}
+		add_core_of = CAL
+		victory_points = {
+			1562 15 
+		}
+	}
+	
+	provinces={
+		823 1562 4657 4727 7517 7986 10387 11757 11795 12303 12374 
+	}
+	manpower=1283456
+	buildings_max_level_factor=1.000
+	state_category=city	
+}

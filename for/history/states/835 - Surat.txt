@@ -1,0 +1,23 @@
+
+state={
+	id=835
+	name="STATE_835"
+	
+	history={
+		owner = FIC
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			7150 5
+		}
+	}
+	
+	provinces={
+		4187 7150 7165 11952
+	}
+	manpower=692834
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

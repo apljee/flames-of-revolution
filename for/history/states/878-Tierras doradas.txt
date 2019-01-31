@@ -1,0 +1,20 @@
+state={
+	id=878
+	name="STATE_878"
+	
+	history={
+		owner = CAL
+		buildings = {
+			industrial_complex = 2
+			air_base = 5
+			}
+			add_core_of = CAL
+		}	
+		
+	provinces={
+		941 1651 4518 7667 9911 11763 
+	}
+	manpower=812834
+	buildings_max_level_factor=1.000
+	state_category=town
+}

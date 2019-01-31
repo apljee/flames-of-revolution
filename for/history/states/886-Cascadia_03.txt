@@ -1,0 +1,21 @@
+state={
+	id=886
+	name="STATE_886"
+	
+	history={
+		owner = NOO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 4
+			}
+		add_core_of = NOO
+	}
+	
+	provinces={
+		1862 7721 10625 12134 12607 
+	}
+	manpower=721234
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

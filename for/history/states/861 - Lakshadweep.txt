@@ -1,0 +1,28 @@
+state={
+	id=861
+	name="STATE_861"
+	
+	history={
+		owner = PIC
+		
+		
+		buildings = {
+			infrastructure = 1
+			13297 = { naval_base = 2 }
+			
+		}
+		
+
+	}
+	resources={
+		
+		
+		
+	}
+	provinces={
+		13297
+	}
+	manpower= 152834
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,21 @@
+state={
+	id=893
+	name="STATE_893"
+	
+	history={
+		owner = NAT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = NAT
+	}
+	
+	provinces={
+		1719 1760 3699 4029 6827 7829 10341 10526 
+	}
+	manpower=58834
+	buildings_max_level_factor=1.000
+	state_category=town
+}
