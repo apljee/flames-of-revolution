@@ -5,7 +5,7 @@ state={
 	history={
 		owner = DIC
 		
-		add_core_of = KZH
+		add_core_of = MDU
 		buildings = {
 			infrastructure = 1
 			
