@@ -2,8 +2,8 @@
 
 
 LOU = {
-	color = rgb { 79 89 117 }
-	color_ui = rgb { 79 89 117 }
+	color = rgb { 124 98 186 }
+	color_ui = rgb { 124 98 186 }
 }
 COL = {
 	color = rgb { 20 133 237 }
@@ -12,18 +12,6 @@ COL = {
 QBC = {
 	color = rgb { 55 105 206 }
 	color_ui = rgb { 55 105 206 }
-}
-NOO = { 
-	color = rgb {199 53 53}
-	color_ui = rgb {199 53 53}
-}
-NAT = { 
-	color = rgb {178 114 99}
-	color_ui = rgb {178 114 99}
-}
-ILL = { 
-	color = rgb {0 128 64}
-	color_ui = rgb {0 128 64}
 }
 ITA = {
 	color = rgb { 59 148 65 }
@@ -78,6 +66,10 @@ IRE = {
 	color = rgb { 20 124 33 }
 	color_ui = rgb { 13 76 20 }
 }
+ARA = {
+	color = rgb { 229 98 119 }
+	color_ui = rgb { 183 69 88 }
+}
 SPR = {
 	color = rgb { 243 211 116 }
 	color_ui = rgb { 204 174 85 }
@@ -87,12 +79,12 @@ POR = {
 	color_ui = rgb { 8 96 104 }
 }
 HUN = {
-	color = rgb { 121 83 97 }
-	color_ui = rgb { 121 83 97 }
+	color = rgb { 202 109 88 }
+	color_ui = rgb { 153 73 55 }
 }
 POL = {
-	color = rgb { 193 58 76 }
-	color_ui = rgb { 193 58 76 }
+	color = rgb { 208 89 105 }
+	color_ui = rgb { 173 64 78 }
 }
 QIN = {
 	color = rgb { 193 173 64 }
@@ -103,10 +95,22 @@ JAP = {
 	color_ui = rgb { 229 178 162 }
 }
 LIT = {
-	color = rgb { 163 138 79 }
-	color_ui = rgb { 163 138 79 }
+	color = rgb { 214 222 128 }
+	color_ui = rgb { 107 127 108 }
+}
+COU = {
+	color = rgb { 136 159 138 }
+	color_ui = rgb { 198 206 113 }
+}
+BAL = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 112 0 22 }
 }
 BLR = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 112 0 22 }
+}
+UKR = {
 	color = rgb { 142 0 28 }
 	color_ui = rgb { 112 0 22 }
 }
@@ -115,16 +119,24 @@ CRO = {
 	color_ui = rgb { 28 77 135 }
 }
 GAL = {
-	color = rgb { 49 98 104 }
-	color_ui = rgb { 49 98 104 }
+	color = rgb { 112 94 144 }
+	color_ui = rgb { 112 94 144 }
 }
 ROM = {
 	color = rgb { 220 204 97 }
 	color_ui = rgb { 201 185 82 }
 }
+SWI = {
+	color = rgb { 228 39 39 }
+	color_ui = rgb { 191 26 26 }
+}
 SER = {
 	color = rgb { 106 80 155 }
 	color_ui = rgb { 80 57 124 }
+}
+ALB = {
+	color = rgb { 155 44 95 }
+	color_ui = rgb { 127 29 74 }
 }
 GRE = {
 	color = rgb { 122 184 210 }

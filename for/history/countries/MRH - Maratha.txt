@@ -51,11 +51,11 @@ set_politics = {
 			popularity = 20
 		}
 		
-		social_liberalism = { 
+		liberalism = { 
 			popularity = 0
 		}
 
-		classical_liberalism = {
+		parliamentarian = {
 			popularity = 50
 		}
 		
@@ -80,7 +80,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = classical_liberalism
+	ruling_party = parliamentarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -91,7 +91,7 @@ create_country_leader = {
 	desc = "POLITICS_Shahu_DESC"
 	picture = "GFX_portrait_MRH_Shahu.dds"
 	expire = "1960.1.1"
-	ideology = classical_liberalism
+	ideology = parliamentarian
 	traits = {
 		#
 	}

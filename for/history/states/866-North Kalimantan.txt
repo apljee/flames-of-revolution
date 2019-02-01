@@ -1,0 +1,14 @@
+state={
+	id=866
+	name="STATE_866"
+	
+	history={
+		add_core_of = FCH
+		owner = FCH
+	}
+	provinces={
+		1404 2047 7415 12243 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

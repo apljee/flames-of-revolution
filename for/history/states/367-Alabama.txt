@@ -2,19 +2,21 @@
 state={
 	id=367
 	name="STATE_367"
+	manpower = 2646247
+	
+	state_category = city
 
 	history={
-		owner = LOU
+		owner = COL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3
 			7480 = {
 				naval_base = 3
-
 			}
-
 		}
-		add_core_of = LOU
+		add_core_of = COL
+		set_demilitarized_zone = yes
 		victory_points = {
 			7480 1 
 		}
@@ -24,17 +26,12 @@ state={
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
-
 			}
-
 		}
 
 	}
 
 	provinces={
-		1587 4622 4756 7422 7480 10192 12735 12803 
+		492 860 1587 4594 4622 4756 5059 7422 7480 7640 10192 10520 11509 11942 12735 12803 
 	}
-	manpower=2646247
-	buildings_max_level_factor=1.000
-	state_category=city
 }

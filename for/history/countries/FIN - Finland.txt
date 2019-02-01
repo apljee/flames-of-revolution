@@ -27,11 +27,11 @@ set_politics = {
 			popularity = 0
 		}
 		
-		social_liberalism = { 
+		liberalism = { 
 			popularity = 10
 		}
 		
-		classical_liberalism = {
+		parliamentarian = {
 			popularity = 35
 		}
 		
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = classical_liberalism
+	ruling_party = parliamentarian
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_FIN_Risto_Ryti.dds"
 	expire = "1965.1.1"
-	ideology = classical_liberalism
+	ideology = parliamentarian
 	traits = {
 		#
 	}

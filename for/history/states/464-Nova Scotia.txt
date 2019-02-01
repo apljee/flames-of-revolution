@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = QBC
+		owner = COL
 		victory_points = {
 			7361 3
 		}
@@ -20,7 +20,7 @@ state={
 
 			}
 		}
-		add_core_of = QBC
+		add_core_of = COL
 	}
 
 	provinces={

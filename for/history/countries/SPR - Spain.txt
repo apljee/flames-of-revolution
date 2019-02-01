@@ -27,11 +27,11 @@ set_politics = {
 			popularity = 5
 		}
 		
-		social_liberalism = { 
+		liberalism = { 
 			popularity = 5
 		}
 		
-		classical_liberalism = {
+		parliamentarian = {
 			popularity = 5
 		}
 		

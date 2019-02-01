@@ -1,5 +1,2 @@
 MDU = "countries/Madurai.txt"
 TNJ = "countries/Tanjore.txt"
-NOO = "countries/Nootka.txt"
-NAT = "countries/NativeConfederation.txt"
-ILL = "countries/Illinois.txt"

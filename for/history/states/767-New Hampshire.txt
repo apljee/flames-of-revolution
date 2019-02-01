@@ -12,13 +12,10 @@ state={
 			}
 			
 		add_core_of = COL
-		victory_points = {
-			12459 1 
-		}
 	}
 	
 	provinces={
-		733 3712 3715 3732 6719 7462 10318 10481 12202 12459
+		733 3712 3715 10481 
 	}
 	manpower=465293
 	buildings_max_level_factor=1.000

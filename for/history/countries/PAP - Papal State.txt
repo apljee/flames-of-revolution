@@ -27,11 +27,11 @@ set_politics = {
 			popularity = 20
 		}
 		
-		social_liberalism = { 
+		liberalism = { 
 			popularity = 20
 		}
 		
-		classical_liberalism = {
+		parliamentarian = {
 			popularity = 0
 		}
 		
@@ -44,11 +44,11 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 60
 		}
 		
 		reactionism = { 
-			popularity = 40
+			popularity = 0
 		}
 		
 		reformationism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = reactionism
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_PAP_Pius_XI.dds"
 	expire = "1965.1.1"
-	ideology = reactionism
+	ideology = absolute
 }
 
 create_field_marshal = {

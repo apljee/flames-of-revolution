@@ -27,7 +27,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		social_liberalism = { 
+		liberalism = { 
 			popularity = 0
 		}
 		

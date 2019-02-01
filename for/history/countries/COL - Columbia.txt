@@ -27,11 +27,11 @@ set_politics = {
 			popularity = 9
 		}
 		
-		social_liberalism= { 
+		liberalism= { 
 			popularity = 18
 		}
 
-		classical_liberalism = {
+		parliamentarian = {
 			popularity = 13
 		}
 		
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
