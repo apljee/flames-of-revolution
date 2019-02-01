@@ -1172,7 +1172,7 @@
  OTT_reformationist:0 "Turkish Caliphate"
  OTT_reformationist_DEF:0 "the Turkish Caliphate"
  #############################################
- AFG_godwinist:0 "PRA"
+  AFG_godwinist:0 "PRA"
  AFG_godwinist_DEF:0 "People's Republic of Afghanistan"
  AFG_revpop:0 "Afghan SRR"
  AFG_revpop_DEF:0 "Afghani Soviet Radical Republic"
@@ -1245,7 +1245,7 @@
  BNK_maratha_parliamentarian:0 "Orcha Protectorate"
  BNK_maratha_parliamentarian_DEF:0 "The Protectorate of Orcha"
  BNK_maratha_parliamentarian_ADJ:0 "Orcha"
- ###############################################
+###############################################
  FIC_FRA_toryism:0 "French India"
  FIC_FRA_toryism_DEF:0 "The French Indian Territories"
  FIC_FRA_toryism_ADJ:0 "French Indian"
@@ -1277,7 +1277,6 @@
  TRV_godwinist:0 "People's Republic of Travancore"
  TRV_godwinist_DEF:0 "The People's Congressional Republic of Travancore"
  TRV_godwinist_ADJ:0 "Keralan"
- 
  ###############################################
  SHN_absolute:0 "Shan Confederacy"
  SHN_absolute_DEF:0 "Confederacy of Shan States"
@@ -1372,12 +1371,5 @@
  MDU_godwinist:0 "People's Republic of Madurai"
  MDU_godwinist_DEF:0 "The People's Republic of Madurai"
  MDU_godwinist_ADJ:0 "Madurai"
- ###############################################
- TNJ_absolute:0 "Thanjavur Kingdom"
- TNJ_absolute_DEF:0 "The Thanjavur Maratha Kingdom"
- TNJ_absolute_ADJ:0 "Thanjavur"
- TNJ_godwinist:0 "People's Republic of Thanjavur"
- TNJ_godwinist_DEF:0 "The People's Republic of Thanjavur"
- TNJ_godwinist_ADJ:0 "Thanjavur"
  
  
