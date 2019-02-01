@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = NOO
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -20,7 +20,7 @@ state={
 			}
 
 		}
-		add_core_of = RUS
+		add_core_of = NOO
 		victory_points = {
 			1408 15 
 		}
@@ -28,9 +28,9 @@ state={
 	}
 
 	provinces={
-		1323 1393 1408 1737 1858 4343 4385 4413 4428 4870 7677 7753 7761 7853 10228 10258 10273 10644 12231 
+		1320 1393 1408 1858 4385 4413 4428 7414 7677 7753 7853 10157 10198 
 	}
-	manpower=638165
+	manpower=838165
 	buildings_max_level_factor=1.000
 	state_category=town
 }

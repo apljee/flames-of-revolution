@@ -1,0 +1,25 @@
+
+state={
+	id=842
+	name="STATE_842"
+	
+	history={
+		owner = BHU
+		add_core_of = BHU
+		
+		buildings = {
+			infrastructure = 3
+			
+		}
+		
+		
+	}
+	resources={
+		
+	}
+	provinces={
+		1116 7455 10349 12730
+	}
+	manpower=181689
+	state_category=rural
+}

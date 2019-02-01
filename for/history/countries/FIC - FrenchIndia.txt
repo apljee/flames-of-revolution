@@ -32,20 +32,20 @@ set_politics = {
 			popularity = 0
 		}
 		
-		liberalism = { 
-			popularity = 30
+		social_liberalism = { 
+			popularity = 0
 		}
 
-		parliamentarian = {
-			popularity = 0
+		classical_liberalism = {
+			popularity = 30
 		}
 		
 		toryism = {
-			popularity = 70
+			popularity = 0
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 70
 		}
 		
 		absolute = {
@@ -61,7 +61,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = autdem
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -72,7 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_Louis_Bonvin_DESC"
 	picture = "GFX_portrait_FIC_Bonvin.dds"
 	expire = "1946.2.23"
-	ideology = toryism
+	ideology = autdem
 	traits = {
 		#
 	}

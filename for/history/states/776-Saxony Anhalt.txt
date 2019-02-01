@@ -3,7 +3,7 @@ state={
 	name="STATE_776"
 	state_category=large_city
 	provinces={
-		3522 6487 9456 9560 11219 11359 
+		3522 6487 9560 11359 
 	}
 	history={
 		owner = GER

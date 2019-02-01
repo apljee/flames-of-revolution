@@ -1,0 +1,24 @@
+state={
+	id=885
+	name="STATE_885"
+	
+	history={
+		owner = NOO
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 4
+			arms_factory = 3
+			}
+		add_core_of = NOO
+		victory_points = {
+			3513 1 
+		}
+	}	
+			
+	provinces={
+		1414 3513 4274 4328 4826 7398 7865 10687 12183 12553 
+	}
+	manpower=882312
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}
