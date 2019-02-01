@@ -87,12 +87,12 @@ POR = {
 	color_ui = rgb { 8 96 104 }
 }
 HUN = {
-	color = rgb { 202 109 88 }
-	color_ui = rgb { 153 73 55 }
+	color = rgb { 121 83 97 }
+	color_ui = rgb { 121 83 97 }
 }
 POL = {
-	color = rgb { 208 89 105 }
-	color_ui = rgb { 173 64 78 }
+	color = rgb { 193 58 76 }
+	color_ui = rgb { 193 58 76 }
 }
 QIN = {
 	color = rgb { 193 173 64 }
@@ -103,8 +103,8 @@ JAP = {
 	color_ui = rgb { 229 178 162 }
 }
 LIT = {
-	color = rgb { 214 222 128 }
-	color_ui = rgb { 107 127 108 }
+	color = rgb { 163 138 79 }
+	color_ui = rgb { 163 138 79 }
 }
 BLR = {
 	color = rgb { 142 0 28 }
@@ -115,8 +115,8 @@ CRO = {
 	color_ui = rgb { 28 77 135 }
 }
 GAL = {
-	color = rgb { 112 94 144 }
-	color_ui = rgb { 112 94 144 }
+	color = rgb { 49 98 104 }
+	color_ui = rgb { 49 98 104 }
 }
 ROM = {
 	color = rgb { 220 204 97 }

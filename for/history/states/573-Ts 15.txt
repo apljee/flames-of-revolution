@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = MOS
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = MOS
+		add_core_of = RUS
 	}
 
 	provinces={
