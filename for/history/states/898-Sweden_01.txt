@@ -1,19 +1,19 @@
 state={
-	id=863
-	name="STATE_863"
+	id=898
+	name="STATE_898"
 	
 	history={
-		owner = 
+		owner = SWE
 		buildings = {
 			infrastructure = 1
+			industrial_complex = 1
 		}
-		add_core_of = 
 	}
 	
 	provinces={
-		8101 10815 
+		185 6201 
 	}
-	manpower=298345
+	manpower=52124
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category = rural
 }

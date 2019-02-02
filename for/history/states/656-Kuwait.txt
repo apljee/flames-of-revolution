@@ -1,10 +1,12 @@
-
 state={
 	id=656
 	name="STATE_656"
-
+	manpower = 80000
+	
+	state_category = rural
+	
 	history={
-		owner = ENG
+		owner = PER
 		victory_points = {
 			8085 1 
 		}
@@ -12,17 +14,11 @@ state={
 			infrastructure = 4
 			8085 = {
 				naval_base = 4
-
 			}
-
 		}
 
 	}
-
 	provinces={
-		8085 
+		8085
 	}
-	manpower=80000
-	buildings_max_level_factor=1.000
-	state_category=rural
 }

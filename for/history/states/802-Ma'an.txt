@@ -3,11 +3,11 @@ state={
 	name="STATE_802"
 	
 	history={
-		owner = OTT
+		owner = 
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = OTT
+		add_core_of = 
 	}
 	
 	provinces={
