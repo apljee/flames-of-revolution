@@ -8,13 +8,13 @@ state={
 	}
 
 	history={
-		owner = GAL
+		owner = POL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 
 		}
-		add_core_of = GAL
+		add_core_of = POL
 
 	}
 

@@ -64,19 +64,80 @@ set_politics = {
 
 set_convoys = 127
 
+create_faction = "Berliner Bund"
+add_to_faction = GER
+add_to_faction = CRO
+add_to_faction = NET
+add_to_faction = DIC
+add_to_faction = DEN
+
 #DIPLOMACY
 if = {
 	limit = {
 		has_dlc = "Together for Victory"
 	}
 	set_autonomy = {
-		target = GAF
+		target = CRO
 		autonomous_state = autonomy_dominion
-		freedom_level = 0.5
+		freedom_level = 0.3
 	}
 	else = {
-		puppet = GAF
-	}	
+		puppet = CRO
+	}
+}
+
+CRO = {
+	set_politics = {
+		parties = {
+			godwinist = { 
+				popularity = 0
+			}
+		
+			revpop = {
+				popularity = 0
+			}
+		
+			jacobinist = {
+				popularity = 0
+			}
+		
+			republicanism = { 
+				popularity = 0
+			}
+		
+			social_liberalism = { 
+				popularity = 0
+			}
+		
+			classical_liberalism = {
+				popularity = 0
+			}
+		
+			toryism = {
+				popularity = 10
+			}
+		
+			autdem = { 
+				popularity = 20
+			}
+		
+			absolute = {
+				popularity = 60
+			}
+		
+			reactionism = { 
+				popularity = 10
+			}
+			
+			reformationism = { 
+				popularity = 0
+			}
+		}
+	ruling_party = absolute
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+	}
 }
 
 create_country_leader = {

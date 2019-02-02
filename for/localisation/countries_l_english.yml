@@ -1058,4 +1058,13 @@
  ILL_toryism:0 "Illinois"
  ILL_toryism_DEF:0 "The Republic of Illinois"
  ILL_toryism_ADJ:0 "Illini"
+ ###############################################
+ CAU_autdem:0 "Caucasus Emirate"
+ CAU_autdem_DEF:0 "Caucasus Emirate"
+ CAU_autdem_ADJ:0 "Caucasus"
+ ###############################################
+ KIE_reactionism:0 "Free Kiev"
+ KIE_reactionism_DEF:0 "Free Kiev"
+ KIE_autdem_ADJ:0 "Kievans"
+ ###############################################
  

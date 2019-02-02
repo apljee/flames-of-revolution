@@ -50,8 +50,8 @@ SAR = {
 	color_ui = rgb { 100 95 141 }
 }
 GER = {
-	color = rgb { 177 177 177 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 168 153 138 }
+	color_ui = rgb { 168 153 138 }
 }
 PRU = {
 	color = rgb { 77 93 83 }
@@ -108,7 +108,15 @@ LIT = {
 }
 BLR = {
 	color = rgb { 142 0 28 }
-	color_ui = rgb { 112 0 22 }
+	color_ui = rgb { 142 0 28 }
+}
+UKR = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 142 0 28 }
+}
+KIE = {
+	color = rgb { 27 71 132 }
+	color_ui = rgb { 27 71 132 }
 }
 CRO = {
 	color = rgb { 43 99 165 }
@@ -137,6 +145,10 @@ BUL = {
 OTT = {
 	color = rgb { 131 148 113 }
 	color_ui = rgb { 103 122 83 }
+}
+CAU = {
+	color = rgb { 73 78 67 }
+	color_ui = rgb { 73 78 67 }
 }
 RUS = {
 	color = rgb { 0 127 14 }

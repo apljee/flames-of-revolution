@@ -3,3 +3,6 @@ TNJ = "countries/Tanjore.txt"
 NOO = "countries/Nootka.txt"
 NAT = "countries/NativeConfederation.txt"
 ILL = "countries/Illinois.txt"
+CAU = "countries/Caucasus.txt"
+KIE = "countries/Kiev.txt"
+UKR = "countries/Ukraine.txt

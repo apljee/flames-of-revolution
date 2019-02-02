@@ -64,6 +64,75 @@ set_politics = {
 
 set_convoys = 57
 
+#DIPLOMACY
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = CAU
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.3
+	}
+	else = {
+		puppet = CAU
+	}
+}
+
+CAU = {
+	set_politics = {
+		parties = {
+			godwinist = { 
+				popularity = 0
+			}
+		
+			revpop = {
+				popularity = 15
+			}
+		
+			jacobinist = {
+				popularity = 0
+			}
+		
+			republicanism = { 
+				popularity = 0
+			}
+		
+			liberalism = { 
+				popularity = 0
+			}
+		
+			parliamentarian = {
+				popularity = 0
+			}
+		
+			toryism = {
+				popularity = 0
+			}
+		
+			autdem = { 
+				popularity = 35
+			}
+		
+			absolute = {
+				popularity = 0
+			}
+		
+			reactionism = { 
+				popularity = 20
+			}
+		
+			reformationism = { 
+				popularity = 30
+			}
+		}	
+		ruling_party = autdem
+		last_election = "1933.3.5"
+		election_frequency = 48
+		elections_allowed = no
+	}
+}
+	
 create_country_leader = {
 	name = "Abdulmecid II"
 	desc = ""
