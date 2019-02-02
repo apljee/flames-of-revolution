@@ -27,12 +27,12 @@ set_politics = {
 			popularity = 10
 		}
 		
-		liberalism = { 
-			popularity = 32
+		social_liberalism = { 
+			popularity = 10
 		}
 
-		parliamentarian = {
-			popularity = 10
+		classical_liberalism = {
+			popularity = 32
 		}
 		
 		toryism = {
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = liberalism
+	ruling_party = classical_liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_CAL_Pascual_Orozco.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = classical_liberalism
 	traits = {
 
 	}

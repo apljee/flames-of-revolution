@@ -1,0 +1,24 @@
+state={
+	id=880
+	name="STATE_880"
+	
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			air_base = 3
+			}
+		add_core_of = CAL
+		victory_points = {
+			9713 1 
+		}
+	}
+			
+	provinces={
+		710 766 3588 9697 9713 10159 10422 11698 
+	}
+	manpower=872345
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

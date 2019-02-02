@@ -15,26 +15,26 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 0
+			popularity = 5
 		}
 
 		revpop = {
-			popularity = 0
+			popularity = 20
 		}
 		
 		jacobinist = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		republicanism = { 
 			popularity = 0
 		}
 		
-		liberalism = { 
-			popularity = 40
+		social_liberalism = { 
+			popularity = 0
 		}
 
-		parliamentarian = {
+		classical_liberalism = {
 			popularity = 0
 		}
 		
@@ -47,7 +47,7 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 60
+			popularity = 40
 		}
 		
 		reactionism = { 
@@ -55,7 +55,7 @@ set_politics = {
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 25
 		}
 	}
 	

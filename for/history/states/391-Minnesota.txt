@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = LOU
+		owner = NAT
 		buildings = {
-			infrastructure = 6
+			infrastructure = 4
 			industrial_complex = 3
 
 		}
-		add_core_of = LOU
+		add_core_of = NAT
 		victory_points = {
 			1866 5 
 		}
@@ -21,9 +21,9 @@ state={
 	}
 
 	provinces={
-		1719 1734 1866 1867 1873 4664 4807 6752 6767 6827 7536 7896 9880 10618 10719 11667 12550 12577 12588 12597 12693 
+		1752 1866 3719 4880 6752 9880 10618 10685 10719 12693 
 	}
-	manpower=2563952
+	manpower=73952
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

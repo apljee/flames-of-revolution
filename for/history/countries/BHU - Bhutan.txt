@@ -30,11 +30,11 @@ set_politics = {
 			popularity = 0
 		}
 		
-		liberalism = { 
+		social_liberalism = { 
 			popularity = 0
 		}
 
-		parliamentarian = {
+		classical_liberalism = {
 			popularity = 60
 		}
 		
@@ -59,7 +59,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = parliamentarian
+	ruling_party = classical_liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = "POLITICS_JIGME_WANGCHUCK_DESC"
 	picture = "GFX_portrait_buthan_diarchy.dds"
 	expire = "1965.1.1"
-	ideology = parliamentarian
+	ideology = classical_liberalism
 	traits = {
 		#
 	}
