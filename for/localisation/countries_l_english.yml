@@ -1067,4 +1067,16 @@
  KIE_reactionism_DEF:0 "Free Kiev"
  KIE_autdem_ADJ:0 "Kievans"
  ###############################################
+ LIV_republicanism:0 "Livonia"
+ LIV_republicanism_DEF:0 "The Republic of Livonia"
+ LIV_republicanism_ADJ:0 "Livonians"
+ LIV_social_liberalism:0 "Livonia"
+ LIV_social_liberalism_DEF:0 "The Republic of Livonia"
+ LIV_social_liberalism_ADJ:0 "Livonians"
+ LIV_classical_liberalism:0 "Livonia"
+ LIV_classical_liberalism_DEF:0 "The Republic of Livonia"
+ LIV_classical_liberalism_ADJ:0 "Livonians"
+ LIV_toryism:0 "Livonia"
+ LIV_toryism_DEF:0 "The Republic of Livonia"
+ LIV_toryism_ADJ:0 "Livonians"
  

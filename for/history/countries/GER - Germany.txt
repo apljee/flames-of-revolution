@@ -64,7 +64,7 @@ set_politics = {
 
 set_convoys = 127
 
-create_faction = "Berliner Bund"
+create_faction = "Wiener Bund"
 add_to_faction = GER
 add_to_faction = CRO
 add_to_faction = NET

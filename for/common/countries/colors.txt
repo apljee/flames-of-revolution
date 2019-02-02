@@ -106,6 +106,10 @@ LIT = {
 	color = rgb { 163 138 79 }
 	color_ui = rgb { 163 138 79 }
 }
+LIV = {
+	color = rgb { 136 159 138 }
+	color_ui = rgb { 136 159 138 }
+}
 BLR = {
 	color = rgb { 142 0 28 }
 	color_ui = rgb { 142 0 28 }

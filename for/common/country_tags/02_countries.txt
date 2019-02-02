@@ -5,4 +5,5 @@ NAT = "countries/NativeConfederation.txt"
 ILL = "countries/Illinois.txt"
 CAU = "countries/Caucasus.txt"
 KIE = "countries/Kiev.txt"
-UKR = "countries/Ukraine.txt
+UKR = "countries/Ukraine.txt"
+LIV = "countries/Livonia.txt"
