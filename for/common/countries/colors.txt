@@ -274,11 +274,12 @@ KHI = {
 	color = rgb {6 106 18}
 	color_ui = rgb {6 106 18}
 }
-MDU = {
-	color = rgb {233  88  88}
-	color_ui = rgb {233  88  88 }
-}
 TNJ = { 
 	color = rgb {203  32  82}
 	color_ui = rgb {203  32  82}
 }
+MDU = {
+	color = rgb {233  88  88}
+	color_ui = rgb {233  88  88 }
+}
+
