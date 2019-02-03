@@ -667,29 +667,6 @@
  CRO_reformationist:0 "Nezavisna Država Hrvatska"
  CRO_reformationist_DEF:0 "Nezavisna Država Hrvatska"
  #############################################
- GAL_godwinist:0 "Red Galicia"
- GAL_godwinist_DEF:0 "Red Galicia"
- GAL_revpop:0 "Red Galicia"
- GAL_revpop_DEF:0 "Red Galicia"
- GAL_jacobinist:0 "Galicia's People Republic"
- GAL_jacobinist_DEF:0 "Galicia's People Republic"
- GAL_republicanism:0 "Galicia"
- GAL_republicanism_DEF:0 "Galicia"
- GAL_social_liberalism:0 "Galicia"
- GAL_social_liberalism_DEF:0 "Galicia"
- GAL_classical_liberalism:0 "Galicia"
- GAL_classical_liberalism_DEF:0 "Galicia"
- GAL_toryism:0 "Galicia"
- GAL_toryism_DEF:0 "Galicia"
- GAL_autdem:0 "Galicia"
- GAL_autdem_DEF:0 "Galicia"
- GAL_absolute:0 "Kingdom of Croatia"
- GAL_absolute_DEF:0 "the Kingdom of Galicia"
- GAL_reactionism:0 "Galicia State"
- GAL_reactionism_DEF:0 "the Galicia State"
- GAL_reformationist:0 "Galicia State"
- GAL_reformationist_DEF:0 "the Galicia State"
- #############################################
  ROM_godwinist:0 "Romanian Commune"
  ROM_godwinist_DEF:0 "the Romanian Commune"
  ROM_revpop:0 "Romanian Commune"
@@ -1065,7 +1042,7 @@
  ###############################################
  KIE_reactionism:0 "Free Kiev"
  KIE_reactionism_DEF:0 "Free Kiev"
- KIE_autdem_ADJ:0 "Kievans"
+ KIE_reactionism_ADJ:0 "Kievans"
  ###############################################
  LIV_republicanism:0 "Livonia"
  LIV_republicanism_DEF:0 "The Republic of Livonia"
@@ -1079,4 +1056,30 @@
  LIV_toryism:0 "Livonia"
  LIV_toryism_DEF:0 "The Republic of Livonia"
  LIV_toryism_ADJ:0 "Livonians"
- 
+ ###############################################
+ KUB_godwinist:0 "Kuban SSR"
+ KUB_godwinist_DEF:0 "The Kuban SSR"
+ KUB_godwinist_ADJ:0 "Kubans"
+ KUB_revpop:0 "Kuban SSR"
+ KUB_revpop_DEF:0 "The Kuban SSR"
+ KUB_revpop_ADJ:0 "Kubans"
+ KUB_jacobinist:0 "Kuban SSR"
+ KUB_jacobinist_DEF:0 "The Kuban SSR"
+ KUB_jacobinist_ADJ:0 "Kubans"
+ ###############################################
+ DAG_absolute:0 "Dagestan"
+ DAG_absolute_DEF:0 "Dagestan"
+ DAG_absolute_ADJ:0 "Dagestans"
+ ###############################################
+ KAR_autdem:0 "Karelia"
+ KAR_autdem_DEF:0 "Karelia"
+ KAR_autdem_ADJ:0 "Karelians"
+ ###############################################
+ STP_autdem:0 "Saint Petersburg Protectorate"
+ STP_autdem_DEF:0 "the Saint Petersburg Protectorate"
+ STP_autdem_ADJ:0 "Russians"
+ ###############################################
+ KRA_absolute:0 "Krakau Principality"
+ KRA_absolute_DEF:0 "the Krakau Principality"
+ KRA_absolute_ADJ:0 "Galacians"
+ ###############################################

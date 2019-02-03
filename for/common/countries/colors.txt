@@ -126,7 +126,7 @@ CRO = {
 	color = rgb { 43 99 165 }
 	color_ui = rgb { 28 77 135 }
 }
-GAL = {
+KRA = {
 	color = rgb { 49 98 104 }
 	color_ui = rgb { 49 98 104 }
 }
@@ -154,9 +154,25 @@ CAU = {
 	color = rgb { 73 78 67 }
 	color_ui = rgb { 73 78 67 }
 }
+KUB = { 
+	color = rgb {142 0 28}
+	color_ui = rgb {142 0 28}
+}
+DAG = { 
+	color = rgb {80 107 80}
+	color_ui = rgb {80 107 80}
+}
+KAR = { 
+	color = rgb {91 113 130}
+	color_ui = rgb {91 113 130}
+}
+STP = { 
+	color = rgb {0 127 14}
+	color_ui = rgb {0 127 14}
+}
 RUS = {
 	color = rgb { 0 127 14 }
-	color_ui = rgb { 4 96 14 }
+	color_ui = rgb { 0 127 14 }
 }
 MOS = {
 	color = rgb { 135 13 24 }

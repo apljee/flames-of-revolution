@@ -67,7 +67,7 @@ add_to_faction = UKR
 add_to_faction = BLR
 add_to_faction = KUB
 
-set_convoys = 70
+set_convoys = 34
 
 #DIPLOMACY
 if = {
@@ -202,7 +202,7 @@ BLR = {
 		elections_allowed = no
 	}
 }
-BAL = {
+KUB = {
 	set_politics = {
 		parties = {
 			godwinist = { 

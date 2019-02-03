@@ -1,4 +1,4 @@
-﻿capital = 206
+﻿capital = 195
 
 #OOB = "ALB_1936"
 
@@ -12,25 +12,25 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 13
+			popularity = 0
 		}
-		
+
 		revpop = {
-			popularity = 58
+			popularity = 0
 		}
 		
 		jacobinist = {
-			popularity = 19
+			popularity = 0
 		}
 		
 		republicanism = { 
-			popularity = 10
+			popularity = 0
 		}
 		
 		social_liberalism = { 
 			popularity = 0
 		}
-		
+
 		classical_liberalism = {
 			popularity = 0
 		}
@@ -40,7 +40,7 @@ set_politics = {
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 100
 		}
 		
 		absolute = {
@@ -56,20 +56,20 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = revpop
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 0
+set_convoys = 14
 
 create_country_leader = {
 	name = ""
 	desc = ""
-	picture = "Portrait_POL_Józef_Piłsudski.dds"
+	picture = "Portrait_BUL_Ferdinand.dds"
 	expire = "1965.1.1"
-	ideology = revpop
+	ideology = autdem
 }
 
 create_field_marshal = {
