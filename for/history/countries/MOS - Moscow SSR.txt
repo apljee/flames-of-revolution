@@ -16,7 +16,7 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 48
+			popularity = 60
 		}
 		
 		jacobinist = {
@@ -24,7 +24,7 @@ set_politics = {
 		}
 		
 		republicanism = { 
-			popularity = 12
+			popularity = 0
 		}
 		
 		social_liberalism = { 
@@ -67,7 +67,7 @@ add_to_faction = UKR
 add_to_faction = BLR
 add_to_faction = KUB
 
-set_convoys = 45
+set_convoys = 34
 
 #DIPLOMACY
 if = {
@@ -85,11 +85,6 @@ if = {
 		freedom_level = 0.3
 	}
 	set_autonomy = {
-		target = BAL
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.3
-	}
-	set_autonomy = {
 		target = KUB
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
@@ -97,7 +92,6 @@ if = {
 	else = {
 		puppet = UKR
 		puppet = BLR
-		puppet = BAL
 		puppet = KUB
 	}
 }
@@ -106,19 +100,19 @@ UKR = {
 	set_politics = {
 		parties = {
 			godwinist = { 
-				popularity = 0
+				popularity = 30
 			}
 		
 			revpop = {
-				popularity = 33
+				popularity = 50
 			}
 		
 			jacobinist = {
-				popularity = 12
+				popularity = 10
 			}
 		
 			republicanism = { 
-				popularity = 0
+				popularity = 10
 			}
 		
 			liberalism = { 
@@ -134,15 +128,15 @@ UKR = {
 			}	
 		
 			autdem = { 
-				popularity = 15
+				popularity = 0
 			}
 		
 			absolute = {
-				popularity = 10
+				popularity = 0
 			}
 		
 			reactionism = { 
-				popularity = 25
+				popularity = 0
 			}
 		
 			reformationism = { 
@@ -208,7 +202,7 @@ BLR = {
 		elections_allowed = no
 	}
 }
-BAL = {
+KUB = {
 	set_politics = {
 		parties = {
 			godwinist = { 

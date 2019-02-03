@@ -5,24 +5,21 @@ state={
 	resources={
 		oil=19.000
 	}
-
+	
 	history={
-		owner = SOV
+		owner = DAG
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 
 		}
-		victory_points = {
-			3672 5 
-		}
-		add_core_of = SOV
+		add_core_of = DAG
 
 	}
-
+	
 	provinces={
 		683 700 712 728 6701 6730 6748 11632 
 	}
-	manpower=1658292
+	manpower=871234
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

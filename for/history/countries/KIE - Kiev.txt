@@ -1,4 +1,4 @@
-﻿capital = 91 
+﻿capital = 202
 
 #OOB = "ALB_1936"
 
@@ -16,31 +16,31 @@ set_politics = {
 		}
 		
 		revpop = {
-			popularity = 0
+			popularity = 15
 		}
 		
 		jacobinist = {
-			popularity = 5
+			popularity = 0
 		}
 		
 		republicanism = { 
-			popularity = 16
+			popularity = 0
 		}
 		
 		social_liberalism = { 
-			popularity = 18
+			popularity = 5
 		}
 		
 		classical_liberalism = {
-			popularity = 19
+			popularity = 5
 		}
 		
 		toryism = {
-			popularity = 17
+			popularity = 5
 		}
 		
 		autdem = { 
-			popularity = 25
+			popularity = 0
 		}
 		
 		absolute = {
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 0
+			popularity = 70
 		}
 		
 		reformationism = { 
@@ -56,20 +56,20 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = reactionism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 0
+set_convoys = 12
 
 create_country_leader = {
 	name = ""
 	desc = ""
-	picture = "Portrait_SLO_Jan_Syrový.dds"
+	picture = "Portrait_IRE_Richard_Mulcahy.dds"
 	expire = "1965.1.1"
-	ideology = autdem
+	ideology = reactionism
 }
 
 create_field_marshal = {
