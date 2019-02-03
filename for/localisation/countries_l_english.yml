@@ -367,6 +367,9 @@
  SWE_reactionism_DEF:0 "the Swedish State"
  SWE_reformationism:0 "Reformed Sweden"
  SWE_reformationism_DEF:0 "the Reformed State of Sweden"
+ SWE_NOR_absolute:0 "United Kingdoms of Sweden and Norway"
+ SWE_NOR_absolute_DEF:0 "The United Kingdoms of Sweden and Norway"
+ SWE_NOR_absolute_ADJ:0 "Swedish-Norwegian"
  #############################################
  DEN_godwinist:0 "Danish Civil Union"
  DEN_godwinist_DEF:0 "the Civil Union of Denmark"

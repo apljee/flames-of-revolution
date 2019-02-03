@@ -65,9 +65,9 @@ set_politics = {
 set_convoys = 14
 
 create_country_leader = {
-	name = ""
+	name = "Vasily Boldyrev"
 	desc = ""
-	picture = "Portrait_BUL_Ferdinand.dds"
+	picture = "Portrait_STP_Boldyrev.dds"
 	expire = "1965.1.1"
 	ideology = autdem
 }

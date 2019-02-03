@@ -7,7 +7,7 @@ set_technology = {
 	tech_support = 1
 	tech_recon = 1
 }
-
+set_cosmetic_tag = SWE_NOR
 set_politics = {
 
 	parties = {

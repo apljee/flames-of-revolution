@@ -1,6 +1,6 @@
 ﻿capital = 146
 
-#OOB = "ALB_1936"
+#OOB = "KAR_1936"
 
 set_technology = {
 	infantry_weapons = 1
@@ -28,7 +28,7 @@ set_politics = {
 		}
 		
 		social_liberalism = { 
-			popularity = 10
+			popularity = 40
 		}
 
 		classical_liberalism = {
@@ -40,7 +40,7 @@ set_politics = {
 		}
 		
 		autdem = { 
-			popularity = 50
+			popularity = 20
 		}
 		
 		absolute = {
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = social_liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,9 +65,9 @@ set_politics = {
 set_convoys = 11
 
 create_country_leader = {
-	name = ""
+	name = "Ukki Väinämöinen"
 	desc = ""
-	picture = "Portrait_BUL_Ferdinand.dds"
+	picture = "Portrait_KAR_Ukki.dds"
 	expire = "1965.1.1"
 	ideology = autdem
 }
