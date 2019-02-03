@@ -1083,3 +1083,11 @@
  KRA_absolute_DEF:0 "the Krakau Principality"
  KRA_absolute_ADJ:0 "Galacians"
  ###############################################
+ COS_reactionism:0 "Free Cossack"
+ COS_reactionism_DEF:0 "the Free Cossack Army"
+ COS_reactionism_ADJ:0 "Cossacks"
+ ###############################################
+ SEM_absolute:0 "Seminole"
+ SEM_absolute_DEF:0 "Seminole"
+ SEM_absolute_ADJ:0 "Seminoles"
+ ###############################################
