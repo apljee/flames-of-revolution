@@ -4,31 +4,24 @@ state={
 	name="STATE_659"
 
 	history={
-		owner = ENG
-		victory_points = {
-			5074 1 
-		}
+		owner = MUS
 		buildings = {
 			infrastructure = 3
-			air_base = 4
-			5074 = {
-				naval_base = 3
-
-			}
+			air_base = 2
 			8000 = {
 				naval_base = 1
 
 			}
 
 		}
-		add_core_of = YEM
+		add_core_of = MUS
 
 	}
 
 	provinces={
 		2029 4976 8000 12821 12894 13079 
 	}
-	manpower=891505
+	manpower=421505
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

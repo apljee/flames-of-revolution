@@ -1,9 +1,22 @@
 state={
 	id=806
 	name="STATE_806"
+	
+	history={
+		owner = NEJ
+		buildings = {
+			infrastructure = 1
+			dockyard = 2
+
+		}
+		add_core_of = NEJ
+
+	}
+	
 	provinces={
 		8051 
 	}
-	manpower=0
+	manpower=82314
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

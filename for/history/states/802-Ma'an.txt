@@ -3,16 +3,17 @@ state={
 	name="STATE_802"
 	
 	history={
-		owner = 
+		owner = JBS
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-		add_core_of = 
+		add_core_of = JBS
 	}
 	
 	provinces={
 		4562 4603 11976 
 	}
-	manpower=0
+	manpower=212834
 	buildings_max_level_factor=1.000
+	state_category = town
 }

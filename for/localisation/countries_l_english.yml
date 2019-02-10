@@ -1094,3 +1094,19 @@
  SEM_absolute_DEF:0 "Seminole"
  SEM_absolute_ADJ:0 "Seminoles"
  ###############################################
+ JBS_absolute:0 "Emirate of Jabal Shammar"
+ JBS_absolute_DEF:0 "the Emirate of Jabal Shammar"
+ JBS_absolute_ADJ:0 "Arabs"
+ ###############################################
+ MUS_absolute:0 "Sultanate of Muscat"
+ MUS_absolute_DEF:0 "the Sultanate of Muscat"
+ MUS_absolute_ADJ:0 "Omani"
+ ###############################################
+ NEJ_absolute:0 "Sultanate of Nejd"
+ NEJ_absolute_DEF:0 "the Sultanate of Nejd"
+ NEJ_absolute_ADJ:0 "Saudis"
+ ###############################################
+ HEJ_republicanism:0 "Kingdom of Hejaz"
+ HEJ_republicanism_DEF:0 "the Hashemite Kingdom of Hejaz"
+ HEJ_republicanism_ADJ:0 "Hashemites"
+ ###############################################

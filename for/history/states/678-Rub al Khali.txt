@@ -4,19 +4,19 @@ state={
 	name="STATE_678"
 
 	history={
-		owner = SAU
+		owner = NEJ
 		buildings = {
-			infrastructure = 0
+			infrastructure = 1
 
 		}
-		add_core_of = SAU
+		add_core_of = NEJ
 
 	}
 
 	provinces={
 		4932 5081 8030 8118 10870 12768 
 	}
-	manpower=42
+	manpower=813934
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }
