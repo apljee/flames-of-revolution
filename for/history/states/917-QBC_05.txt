@@ -1,0 +1,21 @@
+state={
+	id=917
+	name="STATE_917"
+	
+	history={
+		owner = QBC
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			}
+			add_core_of = QBC
+
+	}
+	
+	provinces={
+		1788 1848 1870 4759 4790 7883 10709 12145 12603 12685 
+	}
+	manpower=329823
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

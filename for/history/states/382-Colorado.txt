@@ -7,23 +7,23 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = AIM
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			industrial_complex = 1
 
 		}
-		add_core_of = USA
+		add_core_of = AIM
 		victory_points = {
-			1827 5 
+			1827 1
 		}
 
 	}
 
 	provinces={
-		868 1658 1827 3869 6887 7684 10535 10588 
+		868 1658 1827 7684 7764 10588 
 	}
-	manpower=1035790
+	manpower=481234
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 }

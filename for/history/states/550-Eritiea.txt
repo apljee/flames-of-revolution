@@ -8,8 +8,8 @@ state=
 	
 	history=
 	{
-		owner = ETH
-		add_core_of = ETH
+		owner = FRA
+		add_core_of = FRA
 		victory_points = {
 			12766 1
 		}

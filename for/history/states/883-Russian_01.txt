@@ -1,9 +1,21 @@
+
 state={
 	id=883
 	name="STATE_883"
-	provinces={
-		1323 1737 4343 4870 4877 7761 10228 10258 10273 10644 12231 
+	
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 1
+		}
+		
+		add_core_of = RUS
 	}
-	manpower=0
+	
+	provinces={
+		1323 1737 4870 10228 10258 10273 10644 12231 
+	}
+	manpower=182349
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

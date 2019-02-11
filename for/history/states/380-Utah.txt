@@ -7,23 +7,23 @@ state={
 	}
 
 	history={
-		owner = buildings
-		= {
-			infrastructure = 4
+		owner = AIM
+		buildings= {
+			infrastructure = 2
 			industrial_complex = 1
 
 		}
-		add_core_of = victory_points
-		= {
-			4865 1 
+		add_core_of = AIM
+		victory_points = {
+			4865 5 
 		}
 
 	}
 
 	provinces={
-		1663 1756 4668 4742 4865 7764 10582 10651 10662 12573 13153 
+		1663 4668 4742 4865 7756 7888 9695 10582 10591 10651 10662 12535 12573 13153 
 	}
 	manpower=507846
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

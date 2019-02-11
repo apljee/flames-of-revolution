@@ -1,0 +1,21 @@
+state={
+	id=911
+	name="STATE_911"
+	
+	history={
+		owner = AIM
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = AIM
+
+	}
+	
+	provinces={
+		1756 3869 6887 7688 10535 10640 12561 12633 
+	}
+	manpower=182341
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

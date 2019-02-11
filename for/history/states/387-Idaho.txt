@@ -9,19 +9,19 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = AIM
 		buildings = {
-			infrastructure = 4
+			infrastructure = 1
 
 		}
-		add_core_of = USA
+		add_core_of = AIM
 
 	}
 
 	provinces={
-		1789 3781 7845 9695 10556 10602 10672 12535 
+		1736 1789 3781 6742 7779 7845 10556 10602 10672  
 	}
-	manpower=445031
+	manpower=39812
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }
