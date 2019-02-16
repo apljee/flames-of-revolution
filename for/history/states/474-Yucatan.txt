@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = 
+		owner = YUC
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -19,7 +19,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = 
+		add_core_of = YUC
 	}
 
 	provinces={

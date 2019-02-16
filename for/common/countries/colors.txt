@@ -33,6 +33,22 @@ AIM = {
 	color = rgb {86 86 86}
 	color_ui = rgb {86 86 86}
 }
+GUA = { 
+	color = rgb {123 62 74}
+	color_ui = rgb {123 62 74}
+}
+YUC = { 
+	color = rgb {236 159 89}
+	color_ui = rgb {236 159 89}
+}
+ELS = { 
+	color = rgb {109 153 169}
+	color_ui = rgb {109 153 169}
+}
+HON = { 
+	color = rgb {177 194 139}
+	color_ui = rgb {177 194 139}
+}
 ITA = {
 	color = rgb { 59 148 65 }
 	color_ui = rgb { 43 106 48 }
@@ -95,8 +111,8 @@ POR = {
 	color_ui = rgb { 8 96 104 }
 }
 HUN = {
-	color = rgb { 121 83 97 }
-	color_ui = rgb { 121 83 97 }
+	color = rgb { 152 85 92 }
+	color_ui = rgb { 152 85 92 }
 }
 POL = {
 	color = rgb { 193 58 76 }

@@ -1052,6 +1052,22 @@
  AIM_toryism_DEF:0 "the Confédération des Aimeia"
  AIM_toryism_ADJ:0 "Aimeians"
  ###############################################
+ GUA_autdem:0 "Guatemalan State"
+ GUA_autdem_DEF:0 "the Guatemalan State"
+ GUA_autdem_ADJ:0 "Guatemalans"
+ ###############################################
+ YUC_republicanism:0 "Yucatan"
+ YUC_republicanism_DEF:0 "the Republic of Yucatan"
+ YUC_republicanism_ADJ:0 "Yucatans"
+ ###############################################
+ ELS_reactionism:0 "El Salvador"
+ ELS_reactionism_DEF:0 "El Salvador"
+ ELS_reactionism_ADJ:0 "Salvadorians"
+ ###############################################
+ NIC_toryism:0 "Nicaragua"
+ NIC_toryism_DEF:0 "the Republic of Nicaragua"
+ NIC_toryism_ADJ:0 "the Republic of Nicaragua"
+ ###############################################
  CAU_autdem:0 "Caucasus Emirate"
  CAU_autdem_DEF:0 "Caucasus Emirate"
  CAU_autdem_ADJ:0 "Caucasus"
