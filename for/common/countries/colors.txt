@@ -2,24 +2,24 @@
 
 
 LOU = {
-	color = rgb { 79 89 117 }
-	color_ui = rgb { 79 89 117 }
+	color = rgb { 82 130 165 }
+	color_ui = rgb { 82 130 165 }
 }
 COL = {
-	color = rgb { 20 133 237 }
-	color_ui = rgb { 87 160 255 }
+	color = rgb { 125 168 87 }
+	color_ui = rgb { 125 168 87 }
 }
 QBC = {
 	color = rgb { 55 105 206 }
 	color_ui = rgb { 55 105 206 }
 }
 NOO = { 
-	color = rgb {199 53 53}
-	color_ui = rgb {199 53 53}
+	color = rgb {36 153 108}
+	color_ui = rgb {36 153 108}
 }
 NAT = { 
-	color = rgb {178 114 99}
-	color_ui = rgb {178 114 99}
+	color = rgb {118 70 140}
+	color_ui = rgb {118 70 140}
 }
 ILL = { 
 	color = rgb {221 126 57}
@@ -30,8 +30,8 @@ SEM = {
 	color_ui = rgb {128 87 98}
 }
 AIM = { 
-	color = rgb {86 86 86}
-	color_ui = rgb {86 86 86}
+	color = rgb {194 140 86}
+	color_ui = rgb {194 140 86}
 }
 GUA = { 
 	color = rgb {123 62 74}
@@ -123,8 +123,8 @@ QIN = {
 	color_ui = rgb { 175 157 54 }
 }
 JAP = {
-	color = rgb { 252 201 185 }
-	color_ui = rgb { 229 178 162 }
+	color = rgb { 183 7 39 }
+	color_ui = rgb { 183 7 39 }
 }
 LIT = {
 	color = rgb { 163 138 79 }
@@ -213,6 +213,10 @@ HEJ = {
 ETH = { 
 	color = rgb {147 112 90}
 	color_ui = rgb {147 112 90}
+}
+DOA = { 
+	color = rgb {105 105 105}
+	color_ui = rgb {105 105 105}
 }
 STP = { 
 	color = rgb {0 127 14}

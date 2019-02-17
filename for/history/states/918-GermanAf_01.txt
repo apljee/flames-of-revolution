@@ -1,0 +1,20 @@
+state={
+	id=918
+	name="STATE_918"
+	
+	history={
+		owner = DOA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = DOA
+	}
+	
+	provinces={
+		1953 2034 2073 2154 6027 7133 7996 10908 11934 12808 
+	}
+	manpower=2912341
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

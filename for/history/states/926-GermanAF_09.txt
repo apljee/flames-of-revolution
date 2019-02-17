@@ -1,0 +1,20 @@
+state={
+	id=926
+	name="STATE_926"
+	
+	history={
+		owner = DOA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			}
+		add_core_of = DOA
+	}
+	
+	provinces={
+		2220 2308 4171 5180 8144 9962 10932 
+	}
+	manpower=1781234
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,27 @@
+state={
+	id=920
+	name="STATE_920"
+	
+	history={
+		owner = DOA
+		victory_points = {
+			2123 10
+			}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			dockyard = 4
+			2123 = {
+				naval_base = 5
+		}
+		add_core_of = DOA
+		}
+	}
+	
+	provinces={
+		2123 2159 2180 2202 2217 5164 12971 
+	}
+	manpower=3672523
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

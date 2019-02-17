@@ -21,6 +21,9 @@ state={
 		}
 		add_core_of = LOU
 		victory_points = {
+			1453 20 
+		}
+		victory_points = {
 			7552 30 
 		}
 

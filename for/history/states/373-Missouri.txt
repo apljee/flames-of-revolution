@@ -15,12 +15,8 @@ state={
 		}
 		add_core_of = LOU
 		victory_points = {
-			4569 10 
+			4569 20 
 		}
-		victory_points = {
-			10370 1 
-		}
-
 	}
 
 	provinces={

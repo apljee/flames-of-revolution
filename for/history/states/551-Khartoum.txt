@@ -16,9 +16,6 @@ state={
 
 		}
 		victory_points = {
-			12806 3 
-		}
-		victory_points = {
 			12725 1 
 		}
 		add_core_of = EGY
@@ -26,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1977 4138 4961 4963 7925 7989 8105 10745 10902 12725 12796 12826 12836 
+		1977 4963 7989 8105 10745 10902 12725 
 	}
 	manpower=1993507
 	buildings_max_level_factor=1.000
