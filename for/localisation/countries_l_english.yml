@@ -809,6 +809,10 @@
  OTT_reformationist:0 "Turkish Caliphate"
  OTT_reformationist_DEF:0 "the Turkish Caliphate"
  #############################################
+ EGY_absolute:0 "Eyalet of Egypt"
+ EGY_absolute_DEF:0 "the Eyalet of Egypt"
+ EGY_absolute_ADJ:0 "Egyptians"
+ #############################################
  AFG_godwinist:0 "PRA"
  AFG_godwinist_DEF:0 "People's Republic of Afghanistan"
  AFG_revpop:0 "Afghan SRR"
@@ -1066,7 +1070,15 @@
  ###############################################
  DOA_autdem:0 "Deutsch-Ostafrika"
  DOA_autdem_DEF:0 "Deutsch-Ostafrika"
- DOA_autdem_ADJ:0 "Afrikans"
+ DOA_autdem_ADJ:0 "Germans"
+ ###############################################
+ GGC_autdem:0 "Colonie du Grand Gabon"
+ GGC_autdem_DEF:0 "Colonie du Grand Gabon"
+ GGC_autdem_ADJ:0 "French"
+ ###############################################
+ GCM_autdem:0 "Grande colonie Méditerranéenne"
+ GCM_autdem_DEF:0 "Grande colonie Méditerranéenne"
+ GCM_autdem_ADJ:0 "French"
  ###############################################
  CAU_autdem:0 "Caucasus Emirate"
  CAU_autdem_DEF:0 "Caucasus Emirate"

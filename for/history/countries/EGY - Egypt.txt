@@ -1,4 +1,4 @@
-﻿capital = 371
+﻿capital = 446
 
 #OOB = "ALB_1936"
 
@@ -16,27 +16,27 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 0
+			popularity = 15
 		}
 		
 		jacobinist = {
-			popularity = 4
+			popularity = 0
 		}
 		
 		republicanism = { 
-			popularity = 35
+			popularity = 7
 		}
 		
 		social_liberalism = { 
-			popularity = 17
+			popularity = 7
 		}
 
 		classical_liberalism = {
-			popularity = 14
+			popularity = 7
 		}
 		
 		toryism = {
-			popularity = 30
+			popularity = 7
 		}
 		
 		autdem = { 
@@ -44,11 +44,11 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 50
 		}
 		
 		reactionism = { 
-			popularity = 0
+			popularity = 22
 		}
 		
 		reformationism = { 
@@ -56,20 +56,20 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = republicanism
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 36
+set_convoys = 22
 
 create_country_leader = {
-	name = "Hugo LeBlanc"
+	name = "Jahcoins"
 	desc = ""
-	picture = "Portrait_LOU_Hugo_LeBlanc.dds"
+	picture = "Portrait_LOU_John_M_Parker.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
+	ideology = absolute
 	traits = {
 
 	}

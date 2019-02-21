@@ -65,9 +65,9 @@ set_politics = {
 set_convoys = 22
 
 create_country_leader = {
-	name = "Jahcoins"
+	name = "Clarence D. Martin"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_NOO_Clarence_D_Martin.dds"
 	expire = "1965.1.1"
 	ideology = social_liberalism
 	traits = {

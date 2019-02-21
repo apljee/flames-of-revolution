@@ -16,7 +16,7 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 15
+			popularity = 22
 		}
 		
 		jacobinist = {
@@ -28,7 +28,7 @@ set_politics = {
 		}
 		
 		social_liberalism = { 
-			popularity = 0
+			popularity = 5
 		}
 
 		classical_liberalism = {
@@ -36,23 +36,23 @@ set_politics = {
 		}
 		
 		toryism = {
-			popularity = 0
+			popularity = 17
 		}
 		
 		autdem = { 
-			popularity = 20
+			popularity = 0
 		}
 		
 		absolute = {
-			popularity = 35
+			popularity = 48
 		}
 		
 		reactionism = { 
-			popularity = 20
+			popularity = 0
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 7
 		}
 	}
 	
@@ -74,8 +74,14 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.3
 	}
+	set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.3
+	}
 	else = {
 		puppet = CAU
+		puppet = EGY
 	}
 }
 
@@ -98,11 +104,11 @@ CAU = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		
@@ -127,6 +133,59 @@ CAU = {
 			}
 		}	
 		ruling_party = autdem
+		last_election = "1933.3.5"
+		election_frequency = 48
+		
+	}
+}
+EGY = {
+	set_politics = {
+		parties = {
+			godwinist = { 
+				popularity = 0
+			}
+		
+			revpop = {
+				popularity = 15
+			}
+		
+			jacobinist = {
+				popularity = 0
+			}
+		
+			republicanism = { 
+				popularity = 7
+			}
+		
+			social_liberalism = { 
+				popularity = 7
+			}
+		
+			classical_liberalism = {
+				popularity = 7
+			}
+		
+			toryism = {
+				popularity = 7
+			}
+		
+			autdem = { 
+				popularity = 0
+			}
+		
+			absolute = {
+				popularity = 50
+			}
+		
+			reactionism = { 
+				popularity = 22
+			}
+		
+			reformationism = { 
+				popularity = 0
+			}
+		}	
+		ruling_party = absolute
 		last_election = "1933.3.5"
 		election_frequency = 48
 		elections_allowed = no

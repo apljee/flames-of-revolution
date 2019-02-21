@@ -218,6 +218,18 @@ DOA = {
 	color = rgb {105 105 105}
 	color_ui = rgb {105 105 105}
 }
+GGC = { 
+	color = rgb {27 58 143}
+	color_ui = rgb {27 58 143}
+}
+GCM = { 
+	color = rgb {27 58 143}
+	color_ui = rgb {27 58 143}
+}
+EGY = { 
+	color = rgb {136 166 138}
+	color_ui = rgb {136 166 138}
+}
 STP = { 
 	color = rgb {0 127 14}
 	color_ui = rgb {0 127 14}

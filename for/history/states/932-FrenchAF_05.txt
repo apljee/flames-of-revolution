@@ -1,0 +1,19 @@
+state={
+	id=932
+	name="STATE_932"
+	
+	history={
+		owner = GGC
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = GGC
+	}
+	
+	provinces={
+		1473 1883 3181 4978 7919 
+	}
+	manpower=1381241
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

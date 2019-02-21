@@ -3,7 +3,7 @@ state={
 	name="STATE_665"
 
 	history={
-		owner = FNA
+		owner = GCM
 		buildings = {
 			infrastructure = 3
 

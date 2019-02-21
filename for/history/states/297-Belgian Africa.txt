@@ -2,15 +2,21 @@ state=
 {
 	id=297
 	name="STATE_297" # Equatorial Guinea
-	manpower = 185000
+	manpower = 2885000
 	
-	state_category = enclave
+	state_category = large_town
 	
 	history=
 	{
-		owner = FCA
+		victory_points = {
+			8244 15
+			}
+		owner = GGC
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			air_base = 4
+			arms_factory = 3
+			industrial_complex = 2
 			1903 = {
 				naval_base = 1
 			}
@@ -19,7 +25,7 @@ state=
 			}
 		}
 	}
-	provinces=
-	{
-1903 8244 	}
+	provinces={
+		1903 5036 5139 6039 8244
+	}
 }

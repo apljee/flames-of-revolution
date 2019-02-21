@@ -1,10 +1,9 @@
-
 state={
 	id=549
 	name="STATE_549"
 
 	history={
-		owner = ENG
+		owner = DOA
 		buildings = {
 			infrastructure = 3
 
@@ -15,7 +14,7 @@ state={
 	provinces={
 		1960 2016 5060 8052 8084 10739 10795 10827 10851 
 	}
-	manpower=3694293
+	manpower=2694293
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

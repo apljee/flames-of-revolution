@@ -1,20 +1,19 @@
 state={
-	id=853
-	name="STATE_853"
+	id=928
+	name="STATE_928"
 	
 	history={
-		owner = GCM
+		owner = GGC
 		buildings = {
 			infrastructure = 1
-
 		}
-		add_core_of = GCM
 
 	}
 	
 	provinces={
-		1106 10203 
+		988 8048 10858 10951 
 	}
-	manpower=54325
+	manpower=1982123
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }
