@@ -12,35 +12,35 @@ set_politics = {
 
 	parties = {
 		godwinist = { 
-			popularity = 0
+			popularity = 4
 		}
 
 		revpop = {
-			popularity = 5
+			popularity = 14
 		}
 		
 		jacobinist = {
-			popularity = 10
+			popularity = 4
 		}
 		
 		republicanism = { 
-			popularity = 5
+			popularity = 8
 		}
 		
 		social_liberalism = { 
-			popularity = 0
+			popularity = 7
 		}
 
 		classical_liberalism = {
-			popularity = 20
+			popularity = 17
 		}
 		
 		toryism = {
-			popularity = 45
+			popularity = 0
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 21
 		}
 		
 		absolute = {
@@ -52,11 +52,11 @@ set_politics = {
 		}
 		
 		reformationism = { 
-			popularity = 0
+			popularity = 10
 		}
 	}
 	
-	ruling_party = toryism
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 22
 
 create_country_leader = {
-	name = "Jahcoins"
+	name = "Gabriel Diez"
 	desc = ""
-	picture = "Portrait_LOU_John_M_Parker.dds"
+	picture = "Portrait_AIM_Gabriel_Diez.dds"
 	expire = "1965.1.1"
-	ideology = toryism
+	ideology = autdem
 	traits = {
 
 	}

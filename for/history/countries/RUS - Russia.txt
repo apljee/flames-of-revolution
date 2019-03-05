@@ -98,11 +98,11 @@ STP = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		

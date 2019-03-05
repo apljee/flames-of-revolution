@@ -65,11 +65,11 @@ set_politics = {
 set_convoys = 119
 
 create_country_leader = {
-	name = "Charles E. Hughes"
+	name = "Charles Dawes"
 	desc = ""
-	picture = "Portrait_COL_Charles-Evans-Hughes.dds"
+	picture = "Portrait_COL_Charles_Dawes.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = toryism
 	traits = {
 	}
 }

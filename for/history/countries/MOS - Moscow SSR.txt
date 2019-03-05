@@ -115,11 +115,11 @@ UKR = {
 				popularity = 10
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		
@@ -168,11 +168,11 @@ BLR = {
 				popularity = 10
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		
@@ -221,11 +221,11 @@ KUB = {
 				popularity = 12
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		

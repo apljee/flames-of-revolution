@@ -34,20 +34,24 @@ AIM = {
 	color_ui = rgb {194 140 86}
 }
 GUA = { 
-	color = rgb {123 62 74}
-	color_ui = rgb {123 62 74}
+	color = rgb {159 39 43}
+	color_ui = rgb {159 39 43}
 }
 YUC = { 
-	color = rgb {236 159 89}
-	color_ui = rgb {236 159 89}
+	color = rgb {161 76 65}
+	color_ui = rgb {161 76 65}
 }
 ELS = { 
-	color = rgb {109 153 169}
-	color_ui = rgb {109 153 169}
+	color = rgb {96 154 151}
+	color_ui = rgb {96 154 151}
 }
 HON = { 
 	color = rgb {177 194 139}
 	color_ui = rgb {177 194 139}
+}
+GRA = { 
+	color = rgb {245 199 90}
+	color_ui = rgb {245 199 90}
 }
 ITA = {
 	color = rgb { 59 148 65 }
@@ -94,9 +98,17 @@ DEN = {
 	color = rgb { 130 96 96 }
 	color_ui = rgb { 112 84 84 }
 }
-BRI = {
-	color = rgb { 160 6 27 }
-	color_ui = rgb { 122 3 19 }
+ENG = { 
+	color = rgb { 145 29 36 }
+	color_ui = rgb { 145 29 36 }
+}
+SCO = { 
+	color = rgb { 0 101 189 }
+	color_ui = rgb { 0 101 189 }
+}
+WAL = { 
+	color = rgb { 77 31 91 }
+	color_ui = rgb { 77 31 91 }
 }
 IRE = { 
 	color = rgb { 20 124 33 }

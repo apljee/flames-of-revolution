@@ -128,11 +128,11 @@ QBC = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 18
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 10
 			}
 		
@@ -181,11 +181,11 @@ FCA = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 14
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		
@@ -234,11 +234,11 @@ GGC = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		
@@ -287,11 +287,11 @@ GCM = {
 				popularity = 0
 			}
 		
-			liberalism = { 
+			social_liberalism = { 
 				popularity = 0
 			}
 		
-			parliamentarian = {
+			classical_liberalism = {
 				popularity = 0
 			}
 		

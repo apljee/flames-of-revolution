@@ -1,0 +1,93 @@
+capital = 111
+
+#OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 0
+		}
+		
+		revpop = {
+			popularity = 0
+		}
+		
+		jacobinist = {
+			popularity = 0
+		}
+		
+		republicanism = { 
+			popularity = 0
+		}
+		
+		social_liberalism = { 
+			popularity = 0
+		}
+		
+		classical_liberalism = {
+			popularity = 7
+		}
+		
+		toryism = {
+			popularity = 13
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
+		reactionism = {
+			popularity = 14
+		}
+		
+		reformationism = { 
+			popularity = 66
+		}
+	}
+	
+	ruling_party = reformationism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_faction = "British Isles Government"
+add_to_faction = ENG
+add_to_faction = SCO
+add_to_faction = WAL
+
+set_convoys = 39
+
+create_country_leader = {
+	name = "John Clarke"
+	desc = ""
+	picture = "Portrait_ENG_John_Clarke.dds"
+	expire = "1965.1.1"
+	ideology = reformationism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Xhemal Aranitasi"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

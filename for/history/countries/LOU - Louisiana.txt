@@ -16,27 +16,27 @@ set_politics = {
 		}
 
 		revpop = {
-			popularity = 0
+			popularity = 3
 		}
 		
 		jacobinist = {
-			popularity = 4
+			popularity = 5
 		}
 		
 		republicanism = { 
-			popularity = 35
+			popularity = 20
 		}
 		
 		social_liberalism = { 
-			popularity = 17
+			popularity = 11
 		}
 
 		classical_liberalism = {
-			popularity = 14
+			popularity = 35
 		}
 		
 		toryism = {
-			popularity = 30
+			popularity = 19
 		}
 		
 		autdem = { 
@@ -48,7 +48,7 @@ set_politics = {
 		}
 		
 		reactionism = { 
-			popularity = 0
+			popularity = 7
 		}
 		
 		reformationism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = republicanism
+	ruling_party = classical_liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_LOU_Hugo_LeBlanc.dds"
 	expire = "1965.1.1"
-	ideology = republicanism
+	ideology = classical_liberalism
 	traits = {
 
 	}

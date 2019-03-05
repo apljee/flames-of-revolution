@@ -1,0 +1,88 @@
+capital = 111
+
+#OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		godwinist = { 
+			popularity = 15
+		}
+		
+		revpop = {
+			popularity = 8
+		}
+		
+		jacobinist = {
+			popularity = 5
+		}
+		
+		republicanism = { 
+			popularity = 0
+		}
+		
+		social_liberalism = { 
+			popularity = 14
+		}
+		
+		classical_liberalism = {
+			popularity = 5
+		}
+		
+		toryism = {
+			popularity = 5
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
+		reactionism = {
+			popularity = 27
+		}
+		
+		reformationism = { 
+			popularity = 21
+		}
+	}
+	
+	ruling_party = reactionism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 19
+
+create_country_leader = {
+	name = "Risto Ryti"
+	desc = ""
+	picture = "Portrait_FIN_Risto_Ryti.dds"
+	expire = "1965.1.1"
+	ideology = classical_liberalism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Xhemal Aranitasi"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+
